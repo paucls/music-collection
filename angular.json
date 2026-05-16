@@ -50,8 +50,8 @@
               "outputHashing": "all"
             },
             "github-pages": {
-              "baseHref": "/music-collection/",
-              "outputPath": "dist/music-collection"
+              "baseHref": "/",
+              "outputPath": "dist"
             },
             "development": {
               "optimization": false,

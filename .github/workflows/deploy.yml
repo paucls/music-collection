@@ -32,12 +32,15 @@ jobs:
         run: npm ci
 
       - name: Build
-        run: npm run build -- --configuration github-pages
+        run: npm run build -- --configuration production --base-href=/
+
+      - name: List build output
+        run: ls -la dist/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./dist/music-collection
+          path: ./dist
 
   deploy:
     environment:
