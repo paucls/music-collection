@@ -7,7 +7,7 @@ export interface Album {
   title: string;
   artist: string;
   year: number;
-  type: 'cd' | 'digital';
+  type: 'vinyl' | 'CD' | 'digital';
   cover: string;
   dateAdded: string;
   genre?: string;
