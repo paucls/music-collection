@@ -49,6 +49,10 @@
               ],
               "outputHashing": "all"
             },
+            "github-pages": {
+              "baseHref": "/music-collection/",
+              "outputPath": "dist/music-collection"
+            },
             "development": {
               "optimization": false,
               "extractLicenses": false,
