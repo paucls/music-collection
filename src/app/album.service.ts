@@ -25,6 +25,6 @@ export class AlbumService {
   constructor(private http: HttpClient) {}
 
   getAlbums(): Observable<MusicCollection> {
-    return this.http.get<MusicCollection>('/data/albums.json');
+    return this.http.get<MusicCollection>('./data/albums.json');
   }
 }
