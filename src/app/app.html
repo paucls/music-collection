@@ -1,0 +1,17 @@
+<header>
+  <h1>My Music Collection</h1>
+  <p *ngIf="!loading && !error">{{ albums.length }} albums</p>
+</header>
+
+<main>
+  <div *ngIf="loading" class="loading">Loading albums...</div>
+  <div *ngIf="error" class="error">{{ error }}</div>
+  
+  <div *ngIf="!loading && !error" class="album-grid">
+    <app-album *ngFor="let album of albums; trackBy: trackById" [album]="album"></app-album>
+  </div>
+  
+  <div *ngIf="!loading && !error && albums.length === 0" class="empty">
+    <p>No albums found in your collection.</p>
+  </div>
+</main>

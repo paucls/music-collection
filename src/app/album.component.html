@@ -1,0 +1,14 @@
+<div class="album-card">
+  <div class="album-cover">
+    <img [src]="'/data/' + album.cover" [alt]="album.title" />
+  </div>
+  <div class="album-info">
+    <h3 class="album-title">{{ album.title }}</h3>
+    <p class="album-artist">{{ album.artist }}</p>
+    <div class="album-meta">
+      <span class="album-year">{{ album.year }}</span>
+      <span class="album-type">{{ album.type === 'cd' ? 'CD' : 'Digital' }}</span>
+      <span *ngIf="album.genre" class="album-genre">{{ album.genre }}</span>
+    </div>
+  </div>
+</div>
