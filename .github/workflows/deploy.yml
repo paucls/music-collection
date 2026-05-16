@@ -32,15 +32,15 @@ jobs:
         run: npm ci
 
       - name: Build
-        run: npm run build -- --configuration production --base-href=/
+        run: npm run build -- --configuration production --base-href=/music-collection/
 
       - name: List build output
-        run: ls -la dist/
+        run: ls -la dist/ && ls -la dist/browser/ || echo "browser directory not found"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./dist/browser
+          path: ./dist
 
   deploy:
     environment:
