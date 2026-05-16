@@ -31,6 +31,7 @@ header p {
   padding: 1rem;
   background: #f8f9fa;
   border-radius: 8px;
+  flex-wrap: wrap;
 }
 
 .filter-section label {
@@ -39,7 +40,14 @@ header p {
   font-size: 0.95rem;
 }
 
-.filter-section select {
+.multiselect-dropdown {
+  position: relative;
+  min-width: 250px;
+  flex: 1;
+  max-width: 300px;
+}
+
+.dropdown-trigger {
   padding: 0.6rem 1rem;
   font-size: 1rem;
   border: 1px solid #ddd;
@@ -47,18 +55,75 @@ header p {
   background: white;
   color: #333;
   cursor: pointer;
-  min-width: 200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   transition: border-color 0.2s, box-shadow 0.2s;
 }
 
-.filter-section select:hover {
+.dropdown-trigger:hover {
   border-color: #999;
 }
 
-.filter-section select:focus {
-  outline: none;
+.multiselect-dropdown.open .dropdown-trigger {
   border-color: #4a90e2;
   box-shadow: 0 0 0 3px rgba(74, 144, 226, 0.1);
+}
+
+.dropdown-text {
+  flex: 1;
+}
+
+.dropdown-arrow {
+  margin-left: 0.5rem;
+  transition: transform 0.2s;
+}
+
+.multiselect-dropdown.open .dropdown-arrow {
+  transform: rotate(180deg);
+}
+
+.dropdown-content {
+  position: absolute;
+  top: calc(100% + 4px);
+  left: 0;
+  right: 0;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  max-height: 300px;
+  overflow-y: auto;
+  z-index: 1000;
+}
+
+.checkbox-item {
+  display: flex;
+  align-items: center;
+  padding: 0.6rem 1rem;
+  cursor: pointer;
+  transition: background-color 0.2s;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.checkbox-item:last-child {
+  border-bottom: none;
+}
+
+.checkbox-item:hover {
+  background-color: #f8f9fa;
+}
+
+.checkbox-item input[type="checkbox"] {
+  margin-right: 0.75rem;
+  cursor: pointer;
+  width: 16px;
+  height: 16px;
+}
+
+.checkbox-item span {
+  font-size: 0.95rem;
+  color: #333;
 }
 
 .filter-section p {
@@ -66,6 +131,28 @@ header p {
   color: #666;
   font-size: 0.9rem;
   font-weight: 500;
+  flex: 0 0 auto;
+}
+
+@media (max-width: 768px) {
+  .filter-section {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .filter-section label {
+    margin-bottom: 0.5rem;
+  }
+
+  .multiselect-dropdown {
+    min-width: 100%;
+    max-width: 100%;
+  }
+
+  .filter-section p {
+    text-align: center;
+    margin-top: 0.5rem;
+  }
 }
 
 main {

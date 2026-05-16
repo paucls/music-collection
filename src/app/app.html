@@ -1,11 +1,44 @@
 <header>
   <h1>My Music Collection</h1>
   <div class="filter-section" *ngIf="!loading && !error">
-    <label for="artist-filter">Filter by Artist:</label>
-    <select id="artist-filter" [value]="selectedArtist" (change)="filterByArtist($any($event.target).value)">
-      <option value="">All Artists</option>
-      <option *ngFor="let artist of artists" [value]="artist">{{ artist }}</option>
-    </select>
+    <label>Filter by Artist:</label>
+    <div class="multiselect-dropdown" [class.open]="showDropdown">
+      <div class="dropdown-trigger" (click)="toggleDropdown()">
+        <span class="dropdown-text">
+          {{ getSelectedCount() === 0 ? 'Select Artists' : getSelectedCount() + ' artist(s) selected' }}
+        </span>
+        <span class="dropdown-arrow">▼</span>
+      </div>
+      <div class="dropdown-content" *ngIf="showDropdown">
+        <label class="checkbox-item">
+          <input type="checkbox" [checked]="selectedArtists.size === 0" (change)="selectedArtists.clear(); applyFilter()" />
+          <span>All Artists</span>
+        </label>
+        <label class="checkbox-item" *ngFor="let artist of artists">
+          <input type="checkbox" [checked]="selectedArtists.has(artist)" (change)="filterByArtist(artist)" />
+          <span>{{ artist }}</span>
+        </label>
+      </div>
+    </div>
+    <label>Filter by Type:</label>
+    <div class="multiselect-dropdown" [class.open]="showTypeDropdown">
+      <div class="dropdown-trigger" (click)="toggleTypeDropdown()">
+        <span class="dropdown-text">
+          {{ getSelectedTypeCount() === 0 ? 'Select Types' : getSelectedTypeCount() + ' type(s) selected' }}
+        </span>
+        <span class="dropdown-arrow">▼</span>
+      </div>
+      <div class="dropdown-content" *ngIf="showTypeDropdown">
+        <label class="checkbox-item">
+          <input type="checkbox" [checked]="selectedTypes.size === 0" (change)="selectedTypes.clear(); applyFilter()" />
+          <span>All Types</span>
+        </label>
+        <label class="checkbox-item" *ngFor="let type of types">
+          <input type="checkbox" [checked]="selectedTypes.has(type)" (change)="filterByType(type)" />
+          <span>{{ type }}</span>
+        </label>
+      </div>
+    </div>
     <p>{{ filteredAlbums.length }} albums</p>
   </div>
 </header>

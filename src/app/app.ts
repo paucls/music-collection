@@ -15,8 +15,12 @@ export class App implements OnInit {
   filteredAlbums: Album[] = [];
   loading = true;
   error: string | null = null;
-  selectedArtist: string = '';
+  selectedArtists: Set<string> = new Set();
   artists: string[] = [];
+  showDropdown = false;
+  selectedTypes: Set<string> = new Set();
+  types: string[] = ['vinyl', 'CD', 'digital'];
+  showTypeDropdown = false;
 
   constructor(private albumService: AlbumService, private cdr: ChangeDetectorRef) {}
 
@@ -57,12 +61,51 @@ export class App implements OnInit {
   }
 
   filterByArtist(artist: string) {
-    this.selectedArtist = artist;
-    if (artist === '') {
-      this.filteredAlbums = [...this.albums];
+    if (this.selectedArtists.has(artist)) {
+      this.selectedArtists.delete(artist);
     } else {
-      this.filteredAlbums = this.albums.filter(album => album.artist === artist);
+      this.selectedArtists.add(artist);
     }
+    this.applyFilter();
+  }
+
+  applyFilter() {
+    let result = [...this.albums];
+
+    if (this.selectedArtists.size > 0) {
+      result = result.filter(album => this.selectedArtists.has(album.artist));
+    }
+
+    if (this.selectedTypes.size > 0) {
+      result = result.filter(album => this.selectedTypes.has(album.type));
+    }
+
+    this.filteredAlbums = result;
+  }
+
+  filterByType(type: string) {
+    if (this.selectedTypes.has(type)) {
+      this.selectedTypes.delete(type);
+    } else {
+      this.selectedTypes.add(type);
+    }
+    this.applyFilter();
+  }
+
+  toggleTypeDropdown() {
+    this.showTypeDropdown = !this.showTypeDropdown;
+  }
+
+  getSelectedTypeCount(): number {
+    return this.selectedTypes.size;
+  }
+
+  toggleDropdown() {
+    this.showDropdown = !this.showDropdown;
+  }
+
+  getSelectedCount(): number {
+    return this.selectedArtists.size;
   }
 
   trackById(index: number, album: Album): string {
