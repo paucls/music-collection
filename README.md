@@ -27,7 +27,7 @@ pip install -r scripts/requirements.txt
 python scripts/itunes-scraper.py
 
 # Or specify a custom directory
-python scripts/itunes-scraper.py /path/to/your/music
+python scripts/itunes-scraper.py /Users/YOUR_USERNAME/Music/Music/Media.localized/Music
 ```
 
 ## Running the App

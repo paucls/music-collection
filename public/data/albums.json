@@ -1,12 +1,52 @@
 {
   "albums": [
     {
+      "id": "c97e7aad4d18",
+      "title": "Eternal Life [EP]",
+      "artist": "Jeff Buckley",
+      "year": 2007,
+      "genre": "Alternative",
+      "type": "digital-alac",
+      "cover": "covers/c97e7aad4d18.png",
+      "dateAdded": "2026-05-17T13:28:23.356057"
+    },
+    {
+      "id": "b7313a057452",
+      "title": "Grace",
+      "artist": "Jeff Buckley",
+      "year": 1994,
+      "genre": "Alternative",
+      "type": "digital-alac",
+      "cover": "covers/b7313a057452.png",
+      "dateAdded": "2026-05-17T13:28:23.352982"
+    },
+    {
+      "id": "aae58c1c6904",
+      "title": "Layla And Other Assorted Love Songs [Disc 2]",
+      "artist": "Derek & The Dominos",
+      "year": 1970,
+      "genre": "Rock",
+      "type": "digital-alac",
+      "cover": "covers/aae58c1c6904.png",
+      "dateAdded": "2026-05-17T13:28:23.100732"
+    },
+    {
+      "id": "7c7240c6b262",
+      "title": "Layla And Other Assorted Love Songs [Disc 1]",
+      "artist": "Derek & The Dominos",
+      "year": 1970,
+      "genre": "Rock",
+      "type": "digital-alac",
+      "cover": "covers/7c7240c6b262.png",
+      "dateAdded": "2026-05-17T13:28:23.095578"
+    },
+    {
       "id": "5e7d49f67334",
       "title": "Synchronicity",
       "artist": "Police",
       "year": 1983,
       "genre": "Pop",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/5e7d49f67334.png",
       "dateAdded": "2026-05-16T20:51:30.536758"
     },
@@ -16,7 +56,7 @@
       "artist": "Tom Petty",
       "year": 1989,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/21e0253c655b.png",
       "dateAdded": "2026-05-16T20:51:30.533405"
     },
@@ -26,7 +66,7 @@
       "artist": "Queen",
       "year": 0,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/1e2101b851ac.jpg",
       "dateAdded": "2026-05-16T20:51:30.528243"
     },
@@ -36,7 +76,7 @@
       "artist": "Queen",
       "year": 1991,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/febb97fd2894.jpg",
       "dateAdded": "2026-05-16T20:51:30.525400"
     },
@@ -46,7 +86,7 @@
       "artist": "Queen",
       "year": 0,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/775765e31323.jpg",
       "dateAdded": "2026-05-16T20:51:30.520722"
     },
@@ -56,7 +96,7 @@
       "artist": "Frank Sinatra",
       "year": 2013,
       "genre": "Easy Listening",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/39a5785df8c9.png",
       "dateAdded": "2026-05-16T20:51:30.516184"
     },
@@ -86,7 +126,7 @@
       "artist": "Fleetwood Mac",
       "year": 1972,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/3c2d06e30620.png",
       "dateAdded": "2026-05-16T20:51:30.505997"
     },
@@ -96,7 +136,7 @@
       "artist": "Fleetwood Mac",
       "year": 1972,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/a473346c1628.png",
       "dateAdded": "2026-05-16T20:51:30.502741"
     },
@@ -106,7 +146,7 @@
       "artist": "Fleetwood Mac",
       "year": 1992,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/9bba3179b4bc.png",
       "dateAdded": "2026-05-16T20:51:30.498678"
     },
@@ -116,7 +156,7 @@
       "artist": "Fleetwood Mac",
       "year": 2020,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/35ed48c5daf0.png",
       "dateAdded": "2026-05-16T20:51:30.495374"
     },
@@ -126,7 +166,7 @@
       "artist": "Fleetwood Mac",
       "year": 1973,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/d607aa0f01a2.png",
       "dateAdded": "2026-05-16T20:51:30.492125"
     },
@@ -136,7 +176,7 @@
       "artist": "Fleetwood Mac",
       "year": 1974,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/ba58c22f6aff.png",
       "dateAdded": "2026-05-16T20:51:30.489262"
     },
@@ -146,7 +186,7 @@
       "artist": "Fleetwood Mac",
       "year": 1969,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/28301d0b69dc.png",
       "dateAdded": "2026-05-16T20:51:30.484062"
     },
@@ -156,7 +196,7 @@
       "artist": "Fleetwood Mac",
       "year": 1974,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/6109f68c837b.png",
       "dateAdded": "2026-05-16T20:51:30.480515"
     },
@@ -166,7 +206,7 @@
       "artist": "Fleetwood Mac",
       "year": 1970,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/4486bebae552.png",
       "dateAdded": "2026-05-16T20:51:30.476809"
     },
@@ -176,7 +216,7 @@
       "artist": "Ariel Rot",
       "year": 0,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/a18ae886b085.png",
       "dateAdded": "2026-05-16T20:51:30.468362"
     },
@@ -186,7 +226,7 @@
       "artist": "Loquillo",
       "year": 2009,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/618245461509.jpg",
       "dateAdded": "2026-05-16T20:51:30.455238"
     },
@@ -196,7 +236,7 @@
       "artist": "B.B. King",
       "year": 1998,
       "genre": "Blues",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/773b20920925.png",
       "dateAdded": "2026-05-16T20:51:30.447760"
     },
@@ -206,7 +246,7 @@
       "artist": "The Band",
       "year": 1969,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/03d314699b68.png",
       "dateAdded": "2026-05-16T20:51:30.442739"
     },
@@ -216,7 +256,7 @@
       "artist": "The Band",
       "year": 2019,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/e4133e7443b1.png",
       "dateAdded": "2026-05-16T20:51:30.438060"
     },
@@ -226,7 +266,7 @@
       "artist": "Taste",
       "year": 2015,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/2c11556af440.png",
       "dateAdded": "2026-05-16T20:51:30.432686"
     },
@@ -236,7 +276,7 @@
       "artist": "Taste",
       "year": 1968,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/e2b1fb474417.png",
       "dateAdded": "2026-05-16T20:51:30.429034"
     },
@@ -246,7 +286,7 @@
       "artist": "Bon Jovi",
       "year": 1985,
       "genre": "Hard Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/b0ba56880760.jpg",
       "dateAdded": "2026-05-16T20:51:30.426340"
     },
@@ -256,7 +296,7 @@
       "artist": "Bon Jovi",
       "year": 1986,
       "genre": "Hard Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/69981e068065.jpg",
       "dateAdded": "2026-05-16T20:51:30.423509"
     },
@@ -266,7 +306,7 @@
       "artist": "Eels",
       "year": 1996,
       "genre": "Indie Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/fd906dc46748.png",
       "dateAdded": "2026-05-16T20:51:30.420631"
     },
@@ -276,7 +316,7 @@
       "artist": "Crow Black Chicken",
       "year": 2018,
       "genre": "Indie Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/bd10233ee9b8.png",
       "dateAdded": "2026-05-16T20:51:30.414598"
     },
@@ -286,7 +326,7 @@
       "artist": "Neil Young & Crazy Horse",
       "year": 2024,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/d03130bd0802.png",
       "dateAdded": "2026-05-16T20:51:30.411265"
     },
@@ -296,7 +336,7 @@
       "artist": "Jimi Hendrix",
       "year": 1970,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/67fab6c3e389.png",
       "dateAdded": "2026-05-16T20:51:30.405018"
     },
@@ -306,7 +346,7 @@
       "artist": "Elvis Presley",
       "year": 1961,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/5ef02c021a37.png",
       "dateAdded": "2026-05-16T20:51:30.397150"
     },
@@ -316,7 +356,7 @@
       "artist": "The Rolling Stones",
       "year": 1969,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/e7b9d7c0df41.png",
       "dateAdded": "2026-05-16T20:51:30.396445"
     },
@@ -326,7 +366,7 @@
       "artist": "The Rolling Stones",
       "year": 1975,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/ef6d75945af9.png",
       "dateAdded": "2026-05-16T20:51:30.395651"
     },
@@ -336,7 +376,7 @@
       "artist": "The Rolling Stones",
       "year": 2003,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/ea25c21a34b8.png",
       "dateAdded": "2026-05-16T20:51:30.394345"
     },
@@ -346,7 +386,7 @@
       "artist": "The Rolling Stones",
       "year": 1971,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/f56ab9ebf92a.png",
       "dateAdded": "2026-05-16T20:51:30.393604"
     },
@@ -356,7 +396,7 @@
       "artist": "The Rolling Stones",
       "year": 1971,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/2c57926c39ea.png",
       "dateAdded": "2026-05-16T20:51:30.392936"
     },
@@ -366,7 +406,7 @@
       "artist": "The Rolling Stones",
       "year": 1968,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/96fb8bddb67d.png",
       "dateAdded": "2026-05-16T20:51:30.392228"
     },
@@ -376,7 +416,7 @@
       "artist": "The Rolling Stones",
       "year": 1975,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/5a6f71ee514d.png",
       "dateAdded": "2026-05-16T20:51:30.391527"
     },
@@ -386,7 +426,7 @@
       "artist": "The Rolling Stones",
       "year": 1964,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/66892d42df1f.png",
       "dateAdded": "2026-05-16T20:51:30.390239"
     },
@@ -396,7 +436,7 @@
       "artist": "Jacques Stotzem",
       "year": 2015,
       "genre": "New Age",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/811c9b3e4efe.png",
       "dateAdded": "2026-05-16T20:51:30.387039"
     },
@@ -406,7 +446,7 @@
       "artist": "Dire Straits",
       "year": 1996,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/3684247f978a.jpg",
       "dateAdded": "2026-05-16T20:51:30.384021"
     },
@@ -416,7 +456,7 @@
       "artist": "Dire Straits",
       "year": 1979,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/c90810ee1a30.png",
       "dateAdded": "2026-05-16T20:51:30.380418"
     },
@@ -426,7 +466,7 @@
       "artist": "Dire Straits",
       "year": 1985,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/609d7b7b4dec.png",
       "dateAdded": "2026-05-16T20:51:30.378081"
     },
@@ -436,7 +476,7 @@
       "artist": "Dire Straits",
       "year": 1978,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/1239a9666174.png",
       "dateAdded": "2026-05-16T20:51:30.374931"
     },
@@ -446,7 +486,7 @@
       "artist": "Dire Straits",
       "year": 2020,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/47b9ed952380.png",
       "dateAdded": "2026-05-16T20:51:30.373510"
     },
@@ -456,7 +496,7 @@
       "artist": "Dire Straits",
       "year": 1988,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/6deabe96f140.jpg",
       "dateAdded": "2026-05-16T20:51:30.370194"
     },
@@ -466,7 +506,7 @@
       "artist": "Dire Straits",
       "year": 1991,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/99873e7aae12.png",
       "dateAdded": "2026-05-16T20:51:30.365692"
     },
@@ -476,7 +516,7 @@
       "artist": "Dire Straits",
       "year": 1980,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/72fd5c341952.png",
       "dateAdded": "2026-05-16T20:51:30.363279"
     },
@@ -486,7 +526,7 @@
       "artist": "Mana",
       "year": 0,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/6895ccfe2751.jpg",
       "dateAdded": "2026-05-16T20:51:30.358999"
     },
@@ -496,7 +536,7 @@
       "artist": "The Waterboys",
       "year": 1986,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/26ffd9dd52e0.png",
       "dateAdded": "2026-05-16T20:51:30.355270"
     },
@@ -506,7 +546,7 @@
       "artist": "Pink Floyd",
       "year": 2000,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/0b1b9b465fc2.png",
       "dateAdded": "2026-05-16T20:51:30.347254"
     },
@@ -516,7 +556,7 @@
       "artist": "Pink Floyd",
       "year": 1994,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/bab8d21666c0.png",
       "dateAdded": "2026-05-16T20:51:30.341170"
     },
@@ -526,7 +566,7 @@
       "artist": "Pink Floyd",
       "year": 1987,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/2e3693c46a9f.png",
       "dateAdded": "2026-05-16T20:51:30.335551"
     },
@@ -536,7 +576,7 @@
       "artist": "Pink Floyd",
       "year": 1977,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/68d195fb520f.png",
       "dateAdded": "2026-05-16T20:51:30.332094"
     },
@@ -546,7 +586,7 @@
       "artist": "Pink Floyd",
       "year": 1995,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/95e5b59ef2c7.png",
       "dateAdded": "2026-05-16T20:51:30.326801"
     },
@@ -556,7 +596,7 @@
       "artist": "Pink Floyd",
       "year": 2001,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/4e40f350aa05.png",
       "dateAdded": "2026-05-16T20:51:30.320188"
     },
@@ -566,7 +606,7 @@
       "artist": "Pink Floyd",
       "year": 2000,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/5cafc8bca966.png",
       "dateAdded": "2026-05-16T20:51:30.312903"
     },
@@ -576,7 +616,7 @@
       "artist": "Pink Floyd",
       "year": 1975,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/db3bfb64b8ab.png",
       "dateAdded": "2026-05-16T20:51:30.310960"
     },
@@ -586,7 +626,7 @@
       "artist": "Pink Floyd",
       "year": 1995,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/aaaa8d9218c6.png",
       "dateAdded": "2026-05-16T20:51:30.305022"
     },
@@ -596,7 +636,7 @@
       "artist": "Pink Floyd",
       "year": 2001,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/4bfa1bcb1aa6.png",
       "dateAdded": "2026-05-16T20:51:30.297836"
     },
@@ -606,7 +646,7 @@
       "artist": "Bono & Elliott Wheeler",
       "year": 2026,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/6b054ece0e8b.png",
       "dateAdded": "2026-05-16T20:51:30.295200"
     },
@@ -616,7 +656,7 @@
       "artist": "Elvis Presley With The Royal Philharmonic Orchestra",
       "year": 2026,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/6a53ca4bab9e.png",
       "dateAdded": "2026-05-16T20:51:30.291733"
     },
@@ -626,7 +666,7 @@
       "artist": "Elvis Presley & PNAU",
       "year": 2026,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/a44f11ef7814.png",
       "dateAdded": "2026-05-16T20:51:30.290835"
     },
@@ -636,7 +676,7 @@
       "artist": "Elvis Presley",
       "year": 2026,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/443e99fbc27c.png",
       "dateAdded": "2026-05-16T20:51:30.289858"
     },
@@ -646,7 +686,7 @@
       "artist": "Eric Clapton",
       "year": 1978,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/ec4b45b27fe3.png",
       "dateAdded": "2026-05-16T20:51:30.280497"
     },
@@ -656,7 +696,7 @@
       "artist": "The Rolling Stones",
       "year": 2005,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/0373c5982027.png",
       "dateAdded": "2026-05-16T20:51:30.279444"
     },
@@ -666,7 +706,7 @@
       "artist": "Maria And The Captain",
       "year": 1965,
       "genre": "Soundtrack",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/05afebbada82.png",
       "dateAdded": "2026-05-16T20:51:30.278434"
     },
@@ -676,7 +716,7 @@
       "artist": "Maria",
       "year": 1965,
       "genre": "Soundtrack",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/8522a1c2d679.png",
       "dateAdded": "2026-05-16T20:51:30.277494"
     },
@@ -686,7 +726,7 @@
       "artist": "Maria;Orchestra",
       "year": 1965,
       "genre": "Soundtrack",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/be8d31a5a409.png",
       "dateAdded": "2026-05-16T20:51:30.276788"
     },
@@ -696,7 +736,7 @@
       "artist": "The Sound Of Music Film Cast Feat. Daniel Truhitte & Charmian Carr",
       "year": 1965,
       "genre": "Soundtrack",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/4ca5f384e5a6.png",
       "dateAdded": "2026-05-16T20:51:30.276226"
     },
@@ -706,7 +746,7 @@
       "artist": "The Sound Of Music Film Cast Feat. Julie Andrews & Bill Lee",
       "year": 1965,
       "genre": "Soundtrack",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/5e3db6ae44e3.png",
       "dateAdded": "2026-05-16T20:51:30.275782"
     },
@@ -716,7 +756,7 @@
       "artist": "The Sound Of Music Film Cast Feat. Julie Andrews",
       "year": 1965,
       "genre": "Soundtrack",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/d33790c1f660.png",
       "dateAdded": "2026-05-16T20:51:30.273486"
     },
@@ -726,7 +766,7 @@
       "artist": "The Sound Of Music Film Cast Feat. Julie Andrews & Charmain Carr",
       "year": 1965,
       "genre": "Soundtrack",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/0035dc97e788.png",
       "dateAdded": "2026-05-16T20:51:30.272826"
     },
@@ -736,7 +776,7 @@
       "artist": "The Captain, Maria, The Children & Chorus",
       "year": 1965,
       "genre": "Soundtrack",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/da6bec6a382c.png",
       "dateAdded": "2026-05-16T20:51:30.272397"
     },
@@ -746,7 +786,7 @@
       "artist": "Orchestra",
       "year": 1965,
       "genre": "Soundtrack",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/2c9ff5e51c6e.png",
       "dateAdded": "2026-05-16T20:51:30.271728"
     },
@@ -756,7 +796,7 @@
       "artist": "Chorus And Orchestra",
       "year": 1965,
       "genre": "Soundtrack",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/248884f464e8.png",
       "dateAdded": "2026-05-16T20:51:30.271344"
     },
@@ -766,7 +806,7 @@
       "artist": "The Sound Of Music Film Cast",
       "year": 1965,
       "genre": "Soundtrack",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/771a7f3babb7.png",
       "dateAdded": "2026-05-16T20:51:30.270705"
     },
@@ -776,7 +816,7 @@
       "artist": "Chorus",
       "year": 1965,
       "genre": "Soundtrack",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/17b202cb0a3c.png",
       "dateAdded": "2026-05-16T20:51:30.270307"
     },
@@ -786,7 +826,7 @@
       "artist": "The Sound Of Music Film Cast Feat. Peggy Wood",
       "year": 1965,
       "genre": "Soundtrack",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/228bbec2df6c.png",
       "dateAdded": "2026-05-16T20:51:30.269877"
     },
@@ -796,7 +836,7 @@
       "artist": "Creedence Clearwater Revival",
       "year": 1970,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/12b2ad33e79f.png",
       "dateAdded": "2026-05-16T20:51:30.266005"
     },
@@ -806,7 +846,7 @@
       "artist": "Neil Young",
       "year": 1972,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/e09f7c4fe897.png",
       "dateAdded": "2026-05-16T20:51:30.260085"
     },
@@ -816,7 +856,7 @@
       "artist": "Dolly Parton & Ricky Van Shelton",
       "year": 2012,
       "genre": "Country & Folk",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/085a10540e65.png",
       "dateAdded": "2026-05-16T20:51:30.259118"
     },
@@ -826,7 +866,7 @@
       "artist": "Dolly Parton & Kenny Rogers",
       "year": 2012,
       "genre": "Country & Folk",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/3a4798a186d0.png",
       "dateAdded": "2026-05-16T20:51:30.256395"
     },
@@ -836,7 +876,7 @@
       "artist": "Dolly Parton",
       "year": 2012,
       "genre": "Country & Folk",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/582e71a48976.png",
       "dateAdded": "2026-05-16T20:51:30.254672"
     },
@@ -846,7 +886,7 @@
       "artist": "Bob Marley",
       "year": 1997,
       "genre": "Reggae",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/82d0251a2051.png",
       "dateAdded": "2026-05-16T20:51:30.247139"
     },
@@ -856,7 +896,7 @@
       "artist": "Vangelis",
       "year": 2019,
       "genre": "Soundtrack",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/f3fcf2d997f6.png",
       "dateAdded": "2026-05-16T20:51:30.242259"
     },
@@ -866,7 +906,7 @@
       "artist": "Neil Young",
       "year": 0,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/c87d9e5f2d4e.png",
       "dateAdded": "2026-05-16T20:51:30.237466"
     },
@@ -876,7 +916,7 @@
       "artist": "Eagles",
       "year": 1976,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/68a57222f681.jpg",
       "dateAdded": "2026-05-16T20:51:30.233171"
     },
@@ -886,7 +926,7 @@
       "artist": "Heroes Del Silencio",
       "year": 1998,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/de8664d884f2.png",
       "dateAdded": "2026-05-16T20:51:30.228691"
     },
@@ -896,7 +936,7 @@
       "artist": "Heroes del Silencio",
       "year": 1993,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/f5533a8b935c.png",
       "dateAdded": "2026-05-16T20:51:30.222694"
     },
@@ -906,7 +946,7 @@
       "artist": "Heroes del Silencio",
       "year": 1995,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/e4abac010002.png",
       "dateAdded": "2026-05-16T20:51:30.218886"
     },
@@ -916,7 +956,7 @@
       "artist": "Heroes del Silencio",
       "year": 1990,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/9d6e1b2e909b.png",
       "dateAdded": "2026-05-16T20:51:30.215515"
     },
@@ -926,7 +966,7 @@
       "artist": "Heroes Del Silencio",
       "year": 1996,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/3b18975bde94.png",
       "dateAdded": "2026-05-16T20:51:30.209930"
     },
@@ -936,7 +976,7 @@
       "artist": "U2",
       "year": 1984,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/12a042b06d7a.png",
       "dateAdded": "2026-05-16T20:51:30.204579"
     },
@@ -946,7 +986,7 @@
       "artist": "U2",
       "year": 1987,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/0650dd746440.png",
       "dateAdded": "2026-05-16T20:51:30.201811"
     },
@@ -956,7 +996,7 @@
       "artist": "The Pretty Things (& The Yardbirds Blues Band)",
       "year": 1993,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": null,
       "dateAdded": "2026-05-16T20:51:30.198855"
     },
@@ -966,7 +1006,7 @@
       "artist": "Jimmy Page",
       "year": 1988,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/24ae05ab9643.png",
       "dateAdded": "2026-05-16T20:51:30.195594"
     },
@@ -976,7 +1016,7 @@
       "artist": "Andrés Calamaro",
       "year": 1998,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/2c154040312f.jpg",
       "dateAdded": "2026-05-16T20:51:30.181138"
     },
@@ -986,7 +1026,7 @@
       "artist": "Andrés Calamaro",
       "year": 1997,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/c6bcd254b366.png",
       "dateAdded": "2026-05-16T20:51:30.177392"
     },
@@ -996,7 +1036,7 @@
       "artist": "Andrés Calamaro",
       "year": 0,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/b265ebec603e.jpg",
       "dateAdded": "2026-05-16T20:51:30.174665"
     },
@@ -1006,7 +1046,7 @@
       "artist": "Donovan",
       "year": 2011,
       "genre": "Country & Folk",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/ef0121aa6969.png",
       "dateAdded": "2026-05-16T20:51:30.171311"
     },
@@ -1016,7 +1056,7 @@
       "artist": "Joe Bonamassa",
       "year": 2025,
       "genre": "Blues",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/78fabb530f87.png",
       "dateAdded": "2026-05-16T20:51:30.168317"
     },
@@ -1026,7 +1066,7 @@
       "artist": "Neil Young",
       "year": 1974,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/94c8eb707cfe.png",
       "dateAdded": "2026-05-16T20:51:30.164535"
     },
@@ -1036,7 +1076,7 @@
       "artist": "Scorpions",
       "year": 1972,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/2d72c7a91cd6.png",
       "dateAdded": "2026-05-16T20:51:30.162408"
     },
@@ -1046,7 +1086,7 @@
       "artist": "Eric Clapton",
       "year": 1992,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/db448ec53518.png",
       "dateAdded": "2026-05-16T20:51:30.158614"
     },
@@ -1056,7 +1096,7 @@
       "artist": "Muddy Waters",
       "year": 1950,
       "genre": "Blues",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/0902b7f04d58.png",
       "dateAdded": "2026-05-16T20:51:30.151857"
     },
@@ -1066,7 +1106,7 @@
       "artist": "Muddy Waters",
       "year": 1966,
       "genre": "Blues",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/699970f1fbc8.png",
       "dateAdded": "2026-05-16T20:51:30.145477"
     },
@@ -1076,7 +1116,7 @@
       "artist": "Black Sabbath",
       "year": 1971,
       "genre": "Metal",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/81def4ded5a6.png",
       "dateAdded": "2026-05-16T20:51:30.143006"
     },
@@ -1086,7 +1126,7 @@
       "artist": "Black Sabbath",
       "year": 1971,
       "genre": "Metal",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/f8d8f9181207.png",
       "dateAdded": "2026-05-16T20:51:30.140652"
     },
@@ -1096,7 +1136,7 @@
       "artist": "Led Zeppelin",
       "year": 1973,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/d24841b914a2.png",
       "dateAdded": "2026-05-16T20:51:30.138083"
     },
@@ -1106,7 +1146,7 @@
       "artist": "Led Zeppelin",
       "year": 1973,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/662317b509b0.png",
       "dateAdded": "2026-05-16T20:51:30.136107"
     },
@@ -1116,7 +1156,7 @@
       "artist": "Led Zeppelin",
       "year": 1971,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/d1d01141fb09.png",
       "dateAdded": "2026-05-16T20:51:30.133625"
     },
@@ -1126,7 +1166,7 @@
       "artist": "Led Zeppelin",
       "year": 1971,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/5e1b9c77bb07.png",
       "dateAdded": "2026-05-16T20:51:30.131146"
     },
@@ -1136,7 +1176,7 @@
       "artist": "Green Day",
       "year": 2004,
       "genre": "Punk",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/476b5cb71d21.jpg",
       "dateAdded": "2026-05-16T20:51:30.124897"
     },
@@ -1146,7 +1186,7 @@
       "artist": "Green Day",
       "year": 1994,
       "genre": "Punk",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/f2d6824b253b.jpg",
       "dateAdded": "2026-05-16T20:51:30.120749"
     },
@@ -1156,7 +1196,7 @@
       "artist": "Thin Lizzy",
       "year": 1975,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/b1400f714d19.png",
       "dateAdded": "2026-05-16T20:51:30.112388"
     },
@@ -1166,7 +1206,7 @@
       "artist": "Paco de Lucia",
       "year": 1969,
       "genre": "Flamenco",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/24104c1d5207.jpg",
       "dateAdded": "2026-05-16T20:51:30.109277"
     },
@@ -1176,7 +1216,7 @@
       "artist": "Paco de Lucia",
       "year": 1965,
       "genre": "Flamenco",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/27a5bf80c89c.jpg",
       "dateAdded": "2026-05-16T20:51:30.106483"
     },
@@ -1186,7 +1226,7 @@
       "artist": "Paco de Lucía",
       "year": 2004,
       "genre": "Flamenco",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/91ffd5ec6150.jpg",
       "dateAdded": "2026-05-16T20:51:30.104007"
     },
@@ -1196,7 +1236,7 @@
       "artist": "Paco de Lucia",
       "year": 1967,
       "genre": "Flamenco",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/f079b37d900b.jpg",
       "dateAdded": "2026-05-16T20:51:30.101667"
     },
@@ -1206,7 +1246,7 @@
       "artist": "Enrique Bunbury",
       "year": 1999,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/73dbff1fc5a5.jpg",
       "dateAdded": "2026-05-16T20:51:30.096411"
     },
@@ -1216,7 +1256,7 @@
       "artist": "Enrique Bunbury",
       "year": 1998,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/e9dc3ed4e8c6.png",
       "dateAdded": "2026-05-16T20:51:30.093181"
     },
@@ -1226,7 +1266,7 @@
       "artist": "Enrique Bunbury",
       "year": 2008,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/9a8219c95863.jpg",
       "dateAdded": "2026-05-16T20:51:30.087520"
     },
@@ -1236,7 +1276,7 @@
       "artist": "Enrique Bunbury",
       "year": 2002,
       "genre": "",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/c4a72a914ff6.jpg",
       "dateAdded": "2026-05-16T20:51:30.083626"
     },
@@ -1246,7 +1286,7 @@
       "artist": "Enrique Bunbury",
       "year": 2010,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/4edf6aacaca7.png",
       "dateAdded": "2026-05-16T20:51:30.080515"
     },
@@ -1256,7 +1296,7 @@
       "artist": "Enrique Bunbury",
       "year": 2002,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/dcfe8c80d2d6.jpg",
       "dateAdded": "2026-05-16T20:51:30.069030"
     },
@@ -1266,7 +1306,7 @@
       "artist": "Enrique Bunbury",
       "year": 1997,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/bfc36c68240d.jpg",
       "dateAdded": "2026-05-16T20:51:30.065610"
     },
@@ -1276,7 +1316,7 @@
       "artist": "Simon & Garfunkel",
       "year": 1970,
       "genre": "Pop",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/65d3bd672894.png",
       "dateAdded": "2026-05-16T20:51:30.061203"
     },
@@ -1286,7 +1326,7 @@
       "artist": "Joni Mitchell",
       "year": 1974,
       "genre": "Country & Folk",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/93949ceb3588.png",
       "dateAdded": "2026-05-16T20:51:30.058227"
     },
@@ -1296,7 +1336,7 @@
       "artist": "Peter Green Splinter Group",
       "year": 1999,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/a8647688b99f.png",
       "dateAdded": "2026-05-16T20:51:30.054984"
     },
@@ -1306,7 +1346,7 @@
       "artist": "Status Quo",
       "year": 2015,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/11e9c9ed1d6b.png",
       "dateAdded": "2026-05-16T20:51:30.050561"
     },
@@ -1316,7 +1356,7 @@
       "artist": "Pereza",
       "year": 2007,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/56c88836a306.png",
       "dateAdded": "2026-05-16T20:51:30.044692"
     },
@@ -1326,7 +1366,7 @@
       "artist": "Peter Green",
       "year": 1981,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/0efa33092dcd.png",
       "dateAdded": "2026-05-16T20:51:30.041443"
     },
@@ -1336,7 +1376,7 @@
       "artist": "Santana",
       "year": 1974,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/fe166da6d6b3.png",
       "dateAdded": "2026-05-16T20:51:30.036232"
     },
@@ -1346,7 +1386,7 @@
       "artist": "Robert Johnson",
       "year": 1936,
       "genre": "Blues",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/e894017fe28e.png",
       "dateAdded": "2026-05-16T20:51:30.032789"
     },
@@ -1356,7 +1396,7 @@
       "artist": "ZZ Top",
       "year": 1979,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/7f8ccd6c4f37.png",
       "dateAdded": "2026-05-16T20:51:30.029823"
     },
@@ -1366,7 +1406,7 @@
       "artist": "ZZ Top",
       "year": 1975,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/2c9786db1352.png",
       "dateAdded": "2026-05-16T20:51:30.027070"
     },
@@ -1376,7 +1416,7 @@
       "artist": "ZZ Top",
       "year": 1973,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/4c3ace6d9e2c.png",
       "dateAdded": "2026-05-16T20:51:30.023825"
     },
@@ -1386,7 +1426,7 @@
       "artist": "ZZ Top",
       "year": 1983,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/04c77fc4802a.png",
       "dateAdded": "2026-05-16T20:51:30.019951"
     },
@@ -1396,7 +1436,7 @@
       "artist": "ZZ Top",
       "year": 1972,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/b0aa8592e564.png",
       "dateAdded": "2026-05-16T20:51:30.017042"
     },
@@ -1406,7 +1446,7 @@
       "artist": "James Taylor",
       "year": 2007,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/648c101708b6.png",
       "dateAdded": "2026-05-16T20:51:30.011869"
     },
@@ -1416,7 +1456,7 @@
       "artist": "Creedence Clearwater Revival",
       "year": 1969,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/c73315c02c74.png",
       "dateAdded": "2026-05-16T20:51:30.006036"
     },
@@ -1426,7 +1466,7 @@
       "artist": "Creedence Clearwater Revival",
       "year": 1969,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/faa034f39ded.png",
       "dateAdded": "2026-05-16T20:51:30.002890"
     },
@@ -1436,7 +1476,7 @@
       "artist": "Creedence Clearwater Revival",
       "year": 1972,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/a3a1404e5821.png",
       "dateAdded": "2026-05-16T20:51:30.000114"
     },
@@ -1446,7 +1486,7 @@
       "artist": "Creedence Clearwater Revival",
       "year": 1969,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/a6ca713499b6.png",
       "dateAdded": "2026-05-16T20:51:29.995858"
     },
@@ -1456,7 +1496,7 @@
       "artist": "Creedence Clearwater Revival",
       "year": 2008,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/5e214f72ece9.png",
       "dateAdded": "2026-05-16T20:51:29.992127"
     },
@@ -1466,7 +1506,7 @@
       "artist": "Creedence Clearwater Revival",
       "year": 2008,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/8fe6548377c2.png",
       "dateAdded": "2026-05-16T20:51:29.988501"
     },
@@ -1476,7 +1516,7 @@
       "artist": "Creedence Clearwater Revival",
       "year": 1969,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/80d88d305609.png",
       "dateAdded": "2026-05-16T20:51:29.984723"
     },
@@ -1516,7 +1556,7 @@
       "artist": "Mike Oldfield",
       "year": 1980,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/79e7db0f4cb3.png",
       "dateAdded": "2026-05-16T20:51:29.972019"
     },
@@ -1526,7 +1566,7 @@
       "artist": "Mike Oldfield",
       "year": 1979,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/6784fdc6f39b.png",
       "dateAdded": "2026-05-16T20:51:29.969922"
     },
@@ -1536,7 +1576,7 @@
       "artist": "Mike Oldfield",
       "year": 1998,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/1796c09c78a1.png",
       "dateAdded": "2026-05-16T20:51:29.966876"
     },
@@ -1546,7 +1586,7 @@
       "artist": "Mike Oldfield",
       "year": 1997,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/b9a7d85264f3.png",
       "dateAdded": "2026-05-16T20:51:29.963930"
     },
@@ -1556,7 +1596,7 @@
       "artist": "Mike Oldfield",
       "year": 1973,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/05f46e14b555.png",
       "dateAdded": "2026-05-16T20:51:29.963128"
     },
@@ -1566,7 +1606,7 @@
       "artist": "Mike Oldfield",
       "year": 2003,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/1a32a38a5cc6.png",
       "dateAdded": "2026-05-16T20:51:29.958363"
     },
@@ -1576,7 +1616,7 @@
       "artist": "Mike Oldfield",
       "year": 1978,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/4cf96a284f21.png",
       "dateAdded": "2026-05-16T20:51:29.957049"
     },
@@ -1586,7 +1626,7 @@
       "artist": "Mike Oldfield",
       "year": 1975,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/4f6fbc4eb637.png",
       "dateAdded": "2026-05-16T20:51:29.956023"
     },
@@ -1596,7 +1636,7 @@
       "artist": "AC/DC",
       "year": 2020,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/150cce425140.png",
       "dateAdded": "2026-05-16T20:51:29.952446"
     },
@@ -1606,7 +1646,7 @@
       "artist": "oasis",
       "year": 2025,
       "genre": "Pop",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/edf10b083998.png",
       "dateAdded": "2026-05-16T20:51:29.948641"
     },
@@ -1616,7 +1656,7 @@
       "artist": "Oasis",
       "year": 2025,
       "genre": "Indie Rock",
-      "type": "digital",
+      "type": "digital-alac",
       "cover": "covers/5368f811ed8a.png",
       "dateAdded": "2026-05-16T20:51:29.946850"
     },
@@ -1626,7 +1666,7 @@
       "artist": "Oasis",
       "year": 1995,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/6797e5eebded.jpg",
       "dateAdded": "2026-05-16T20:51:29.942831"
     },
@@ -1636,10 +1676,10 @@
       "artist": "Oasis",
       "year": 2005,
       "genre": "Rock",
-      "type": "digital",
+      "type": "digital-mp3",
       "cover": "covers/00bdd0a6a576.jpg",
       "dateAdded": "2026-05-16T20:51:29.938908"
     }
   ],
-  "lastUpdated": "2026-05-16T21:09:05.299623"
+  "lastUpdated": "2026-05-17T13:32:10.649405"
 }
