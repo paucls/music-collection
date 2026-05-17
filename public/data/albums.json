@@ -761,33 +761,33 @@
       "dateAdded": "2026-05-16T20:51:30.228691"
     },
     {
-      "id": "f5533a8b935c",
+      "id": "216c57d90e98",
       "title": "El Espiritu del Vino",
-      "artist": "Heroes del Silencio",
+      "artist": "Heroes Del Silencio",
       "year": 1993,
       "genre": "Rock",
       "type": "digital-mp3",
-      "cover": "covers/f5533a8b935c.png",
+      "cover": "covers/216c57d90e98.png",
       "dateAdded": "2026-05-16T20:51:30.222694"
     },
     {
-      "id": "e4abac010002",
+      "id": "abe4259ca4fe",
       "title": "Avalancha",
-      "artist": "Heroes del Silencio",
+      "artist": "Heroes Del Silencio",
       "year": 1995,
       "genre": "Rock",
       "type": "digital-mp3",
-      "cover": "covers/e4abac010002.png",
+      "cover": "covers/abe4259ca4fe.png",
       "dateAdded": "2026-05-16T20:51:30.218886"
     },
     {
-      "id": "9d6e1b2e909b",
+      "id": "2a103f76bbfa",
       "title": "Senderos de Traicion",
-      "artist": "Heroes del Silencio",
+      "artist": "Heroes Del Silencio",
       "year": 1990,
       "genre": "Rock",
       "type": "digital-mp3",
-      "cover": "covers/9d6e1b2e909b.png",
+      "cover": "covers/2a103f76bbfa.png",
       "dateAdded": "2026-05-16T20:51:30.215515"
     },
     {
@@ -1051,13 +1051,13 @@
       "dateAdded": "2026-05-16T20:51:30.106483"
     },
     {
-      "id": "91ffd5ec6150",
+      "id": "d1d3e0e848d9",
       "title": "Fuente y Caudal",
-      "artist": "Paco de Lucía",
+      "artist": "Paco de Lucia",
       "year": 2004,
       "genre": "Flamenco",
       "type": "digital-mp3",
-      "cover": "covers/91ffd5ec6150.jpg",
+      "cover": "covers/d1d3e0e848d9.jpg",
       "dateAdded": "2026-05-16T20:51:30.104007"
     },
     {
@@ -1511,5 +1511,5 @@
       "dateAdded": "2026-05-16T20:51:29.938908"
     }
   ],
-  "lastUpdated": "2026-05-17T13:41:36.702287"
+  "lastUpdated": "2026-05-17T13:45:05.940258"
 }
