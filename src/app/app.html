@@ -35,7 +35,7 @@
         </label>
         <label class="checkbox-item" *ngFor="let type of types">
           <input type="checkbox" [checked]="selectedTypes.has(type)" (change)="filterByType(type)" />
-          <span>{{ type }}</span>
+          <span>{{ formatType(type) }}</span>
         </label>
       </div>
     </div>

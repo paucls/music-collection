@@ -7,7 +7,7 @@
     <p class="album-artist">{{ album.artist }}</p>
     <div class="album-meta">
       <span class="album-year">{{ album.year }}</span>
-      <span class="album-type">{{ album.type }}</span>
+      <span class="album-type">{{ formatType(album.type) }}</span>
       <span *ngIf="album.genre" class="album-genre">{{ album.genre }}</span>
     </div>
   </div>

@@ -258,13 +258,21 @@ class iTunesScraper:
                 if artwork:
                     cover_path = self._save_cover(artwork, self._generate_album_id(artist, album_name))
 
+                # Determine digital type based on file extension
+                if file_path.suffix.lower() == '.mp3':
+                    digital_type = 'digital-mp3'
+                elif file_path.suffix.lower() == '.m4a':
+                    digital_type = 'digital-alac'
+                else:
+                    digital_type = 'digital-mp3'  # Default to mp3 for other formats
+
                 albums_data[album_key] = {
                     'id': self._generate_album_id(artist, album_name),
                     'title': album_name,
                     'artist': artist,
                     'year': metadata.get('year', 0),
                     'genre': metadata.get('genre', ''),
-                    'type': 'digital',  # Can be overridden manually for CDs
+                    'type': digital_type,  # Can be overridden manually for CDs
                     'cover': cover_path,
                     'dateAdded': datetime.now().isoformat()
                 }

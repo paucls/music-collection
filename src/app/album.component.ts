@@ -11,4 +11,13 @@ import { Album } from './album.service';
 })
 export class AlbumComponent {
   @Input() album!: Album;
+
+  formatType(type: string): string {
+    if (type === 'digital-mp3') {
+      return 'digital MP3';
+    } else if (type === 'digital-alac') {
+      return 'digital ALAC';
+    }
+    return type;
+  }
 }

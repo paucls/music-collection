@@ -19,7 +19,7 @@ export class App implements OnInit {
   artists: string[] = [];
   showDropdown = false;
   selectedTypes: Set<string> = new Set();
-  types: string[] = ['vinyl', 'CD', 'digital'];
+  types: string[] = ['vinyl', 'CD', 'digital-mp3', 'digital-alac'];
   showTypeDropdown = false;
 
   constructor(private albumService: AlbumService, private cdr: ChangeDetectorRef) {}
@@ -110,5 +110,14 @@ export class App implements OnInit {
 
   trackById(index: number, album: Album): string {
     return album.id;
+  }
+
+  formatType(type: string): string {
+    if (type === 'digital-mp3') {
+      return 'digital MP3';
+    } else if (type === 'digital-alac') {
+      return 'digital ALAC';
+    }
+    return type;
   }
 }
