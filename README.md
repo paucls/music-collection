@@ -1,59 +1,46 @@
-# MusicApp
+# Music Collection
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.11.
+A web application for browsing and filtering your music library. Displays albums with cover art, organized by artist and format (vinyl, CD, digital MP3, digital ALAC).
 
-## Development server
+## Features
 
-To start a local development server, run:
+- **Album Browser**: View your entire music collection with album artwork
+- **Filtering**: Filter albums by artist and format type
+- **Metadata Extraction**: Automatically extracts album information from your music files
+
+## Music Library Scraper
+
+The included Python script (`scripts/itunes-scraper.py`) scans your music directory and extracts album metadata from audio files:
+
+- **Supported formats**: MP3, M4A, AAC, FLAC, OGG, WAV
+- **Extracts**: Artist, album title, year, genre, and embedded artwork
+- **Safe**: Read-only operation - never modifies your original music files
+- **Database**: Stores results in `public/data/albums.json` with cover images in `public/data/covers/`
+
+### Running the Scraper
 
 ```bash
+# Install dependencies
+pip install -r scripts/requirements.txt
+
+# Run with default music directory (~/Music)
+python scripts/itunes-scraper.py
+
+# Or specify a custom directory
+python scripts/itunes-scraper.py /path/to/your/music
+```
+
+## Running the App
+
+```bash
+# Install dependencies
+npm install
+
+# Start development server
 ng serve
-```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
-
-## Code scaffolding
-
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
+# Build for production
 ng build
 ```
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+The app will be available at `http://localhost:4200`
