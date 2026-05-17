@@ -641,36 +641,6 @@
       "dateAdded": "2026-05-16T20:51:30.297836"
     },
     {
-      "id": "6b054ece0e8b",
-      "title": "EPiC: Elvis Presley In Concert - Original Motion Picture Soundtrack",
-      "artist": "Bono & Elliott Wheeler",
-      "year": 2026,
-      "genre": "Rock",
-      "type": "digital-alac",
-      "cover": "covers/6b054ece0e8b.png",
-      "dateAdded": "2026-05-16T20:51:30.295200"
-    },
-    {
-      "id": "6a53ca4bab9e",
-      "title": "EPiC: Elvis Presley In Concert - Original Motion Picture Soundtrack",
-      "artist": "Elvis Presley With The Royal Philharmonic Orchestra",
-      "year": 2026,
-      "genre": "Rock",
-      "type": "digital-alac",
-      "cover": "covers/6a53ca4bab9e.png",
-      "dateAdded": "2026-05-16T20:51:30.291733"
-    },
-    {
-      "id": "a44f11ef7814",
-      "title": "EPiC: Elvis Presley In Concert - Original Motion Picture Soundtrack",
-      "artist": "Elvis Presley & PNAU",
-      "year": 2026,
-      "genre": "Rock",
-      "type": "digital-alac",
-      "cover": "covers/a44f11ef7814.png",
-      "dateAdded": "2026-05-16T20:51:30.290835"
-    },
-    {
       "id": "443e99fbc27c",
       "title": "EPiC: Elvis Presley In Concert - Original Motion Picture Soundtrack",
       "artist": "Elvis Presley",
@@ -701,133 +671,13 @@
       "dateAdded": "2026-05-16T20:51:30.279444"
     },
     {
-      "id": "05afebbada82",
+      "id": "277dff5bc83d",
       "title": "The Sound Of Music: Original Soundtrack Recording",
-      "artist": "Maria And The Captain",
+      "artist": "Richard Rodgers",
       "year": 1965,
       "genre": "Soundtrack",
       "type": "digital-alac",
-      "cover": "covers/05afebbada82.png",
-      "dateAdded": "2026-05-16T20:51:30.278434"
-    },
-    {
-      "id": "8522a1c2d679",
-      "title": "The Sound Of Music: Original Soundtrack Recording",
-      "artist": "Maria",
-      "year": 1965,
-      "genre": "Soundtrack",
-      "type": "digital-alac",
-      "cover": "covers/8522a1c2d679.png",
-      "dateAdded": "2026-05-16T20:51:30.277494"
-    },
-    {
-      "id": "be8d31a5a409",
-      "title": "The Sound Of Music: Original Soundtrack Recording",
-      "artist": "Maria;Orchestra",
-      "year": 1965,
-      "genre": "Soundtrack",
-      "type": "digital-alac",
-      "cover": "covers/be8d31a5a409.png",
-      "dateAdded": "2026-05-16T20:51:30.276788"
-    },
-    {
-      "id": "4ca5f384e5a6",
-      "title": "The Sound Of Music: Original Soundtrack Recording",
-      "artist": "The Sound Of Music Film Cast Feat. Daniel Truhitte & Charmian Carr",
-      "year": 1965,
-      "genre": "Soundtrack",
-      "type": "digital-alac",
-      "cover": "covers/4ca5f384e5a6.png",
-      "dateAdded": "2026-05-16T20:51:30.276226"
-    },
-    {
-      "id": "5e3db6ae44e3",
-      "title": "The Sound Of Music: Original Soundtrack Recording",
-      "artist": "The Sound Of Music Film Cast Feat. Julie Andrews & Bill Lee",
-      "year": 1965,
-      "genre": "Soundtrack",
-      "type": "digital-alac",
-      "cover": "covers/5e3db6ae44e3.png",
-      "dateAdded": "2026-05-16T20:51:30.275782"
-    },
-    {
-      "id": "d33790c1f660",
-      "title": "The Sound Of Music: Original Soundtrack Recording",
-      "artist": "The Sound Of Music Film Cast Feat. Julie Andrews",
-      "year": 1965,
-      "genre": "Soundtrack",
-      "type": "digital-alac",
-      "cover": "covers/d33790c1f660.png",
-      "dateAdded": "2026-05-16T20:51:30.273486"
-    },
-    {
-      "id": "0035dc97e788",
-      "title": "The Sound Of Music: Original Soundtrack Recording",
-      "artist": "The Sound Of Music Film Cast Feat. Julie Andrews & Charmain Carr",
-      "year": 1965,
-      "genre": "Soundtrack",
-      "type": "digital-alac",
-      "cover": "covers/0035dc97e788.png",
-      "dateAdded": "2026-05-16T20:51:30.272826"
-    },
-    {
-      "id": "da6bec6a382c",
-      "title": "The Sound Of Music: Original Soundtrack Recording",
-      "artist": "The Captain, Maria, The Children & Chorus",
-      "year": 1965,
-      "genre": "Soundtrack",
-      "type": "digital-alac",
-      "cover": "covers/da6bec6a382c.png",
-      "dateAdded": "2026-05-16T20:51:30.272397"
-    },
-    {
-      "id": "2c9ff5e51c6e",
-      "title": "The Sound Of Music: Original Soundtrack Recording",
-      "artist": "Orchestra",
-      "year": 1965,
-      "genre": "Soundtrack",
-      "type": "digital-alac",
-      "cover": "covers/2c9ff5e51c6e.png",
-      "dateAdded": "2026-05-16T20:51:30.271728"
-    },
-    {
-      "id": "248884f464e8",
-      "title": "The Sound Of Music: Original Soundtrack Recording",
-      "artist": "Chorus And Orchestra",
-      "year": 1965,
-      "genre": "Soundtrack",
-      "type": "digital-alac",
-      "cover": "covers/248884f464e8.png",
-      "dateAdded": "2026-05-16T20:51:30.271344"
-    },
-    {
-      "id": "771a7f3babb7",
-      "title": "The Sound Of Music: Original Soundtrack Recording",
-      "artist": "The Sound Of Music Film Cast",
-      "year": 1965,
-      "genre": "Soundtrack",
-      "type": "digital-alac",
-      "cover": "covers/771a7f3babb7.png",
-      "dateAdded": "2026-05-16T20:51:30.270705"
-    },
-    {
-      "id": "17b202cb0a3c",
-      "title": "The Sound Of Music: Original Soundtrack Recording",
-      "artist": "Chorus",
-      "year": 1965,
-      "genre": "Soundtrack",
-      "type": "digital-alac",
-      "cover": "covers/17b202cb0a3c.png",
-      "dateAdded": "2026-05-16T20:51:30.270307"
-    },
-    {
-      "id": "228bbec2df6c",
-      "title": "The Sound Of Music: Original Soundtrack Recording",
-      "artist": "The Sound Of Music Film Cast Feat. Peggy Wood",
-      "year": 1965,
-      "genre": "Soundtrack",
-      "type": "digital-alac",
-      "cover": "covers/228bbec2df6c.png",
+      "cover": "covers/277dff5bc83d.png",
       "dateAdded": "2026-05-16T20:51:30.269877"
     },
     {
@@ -849,26 +699,6 @@
       "type": "digital-alac",
       "cover": "covers/e09f7c4fe897.png",
       "dateAdded": "2026-05-16T20:51:30.260085"
-    },
-    {
-      "id": "085a10540e65",
-      "title": "The Hits",
-      "artist": "Dolly Parton & Ricky Van Shelton",
-      "year": 2012,
-      "genre": "Country & Folk",
-      "type": "digital-alac",
-      "cover": "covers/085a10540e65.png",
-      "dateAdded": "2026-05-16T20:51:30.259118"
-    },
-    {
-      "id": "3a4798a186d0",
-      "title": "The Hits",
-      "artist": "Dolly Parton & Kenny Rogers",
-      "year": 2012,
-      "genre": "Country & Folk",
-      "type": "digital-alac",
-      "cover": "covers/3a4798a186d0.png",
-      "dateAdded": "2026-05-16T20:51:30.256395"
     },
     {
       "id": "582e71a48976",
@@ -1681,5 +1511,5 @@
       "dateAdded": "2026-05-16T20:51:29.938908"
     }
   ],
-  "lastUpdated": "2026-05-17T13:32:10.649405"
+  "lastUpdated": "2026-05-17T13:41:36.702287"
 }

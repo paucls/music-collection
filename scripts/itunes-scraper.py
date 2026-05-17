@@ -70,10 +70,10 @@ class iTunesScraper:
         return {}
 
     def _album_key(self, album: Dict) -> str:
-        """Generate a unique key for an album (artist + album name)."""
-        artist = album.get('artist', '').lower().strip()
+        """Generate a unique key for an album (title + year)."""
         title = album.get('title', '').lower().strip()
-        return f"{artist}|{title}"
+        year = album.get('year', 0)
+        return f"{title}|{year}"
 
     def _generate_album_id(self, artist: str, title: str) -> str:
         """Generate a unique ID for an album."""
@@ -306,9 +306,24 @@ class iTunesScraper:
             if key in self.existing_albums:
                 # Album exists, check if it needs updating
                 existing = self.existing_albums[key]
-                # Only update if cover is missing but we now have one
-                if not existing.get('cover') and album.get('cover'):
+
+                # Check if metadata has changed
+                metadata_changed = (
+                    existing.get('artist') != album.get('artist') or
+                    existing.get('title') != album.get('title') or
+                    existing.get('year') != album.get('year') or
+                    existing.get('genre') != album.get('genre')
+                )
+
+                # Update if metadata changed or cover is missing
+                if metadata_changed or (not existing.get('cover') and album.get('cover')):
                     album['dateAdded'] = existing['dateAdded']  # Preserve original date
+                    # Preserve cover if existing has one but new doesn't
+                    if existing.get('cover') and not album.get('cover'):
+                        album['cover'] = existing['cover']
+                    # Preserve CD and vinyl types from existing database
+                    if existing.get('type') in ['CD', 'vinyl']:
+                        album['type'] = existing['type']
                     updated_albums.append(album)
             else:
                 added_albums.append(album)
