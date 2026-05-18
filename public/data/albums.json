@@ -1,6 +1,116 @@
 {
   "albums": [
     {
+      "id": "4c0c9f949dc8",
+      "title": "Photo-Finish",
+      "artist": "Rory Gallagher",
+      "year": 1978,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/4c0c9f949dc8.png",
+      "dateAdded": "2026-05-18T19:30:18.648330"
+    },
+    {
+      "id": "5493c72f30a2",
+      "title": "Blueprint",
+      "artist": "Rory Gallagher",
+      "year": 1973,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/5493c72f30a2.png",
+      "dateAdded": "2026-05-18T19:30:18.639935"
+    },
+    {
+      "id": "f8c6467fc2f6",
+      "title": "Defender",
+      "artist": "Rory Gallagher",
+      "year": 1987,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/f8c6467fc2f6.png",
+      "dateAdded": "2026-05-18T19:30:18.632768"
+    },
+    {
+      "id": "47884aed752e",
+      "title": "Deuce",
+      "artist": "Rory Gallagher",
+      "year": 1971,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/47884aed752e.png",
+      "dateAdded": "2026-05-18T19:30:18.627242"
+    },
+    {
+      "id": "3b92ac3ef587",
+      "title": "Fresh Evidence",
+      "artist": "Rory Gallagher",
+      "year": 1990,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/3b92ac3ef587.png",
+      "dateAdded": "2026-05-18T19:30:18.620060"
+    },
+    {
+      "id": "8da5c9537c0c",
+      "title": "Rory Gallagher",
+      "artist": "Rory Gallagher",
+      "year": 1971,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/8da5c9537c0c.png",
+      "dateAdded": "2026-05-18T19:30:18.613563"
+    },
+    {
+      "id": "bcf4e722b126",
+      "title": "Tattoo",
+      "artist": "Rory Gallagher",
+      "year": 1973,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/bcf4e722b126.png",
+      "dateAdded": "2026-05-18T19:30:18.607997"
+    },
+    {
+      "id": "d10f5c33419d",
+      "title": "Irish Tour `74",
+      "artist": "Rory Gallagher",
+      "year": 1974,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/d10f5c33419d.png",
+      "dateAdded": "2026-05-18T19:30:18.602364"
+    },
+    {
+      "id": "bc3da2363b06",
+      "title": "Jinx",
+      "artist": "Rory Gallagher",
+      "year": 1982,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/bc3da2363b06.png",
+      "dateAdded": "2026-05-18T19:30:18.596094"
+    },
+    {
+      "id": "50c65f2d67c1",
+      "title": "The Best Of [Disc 2]",
+      "artist": "Rory Gallagher",
+      "year": 2020,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/50c65f2d67c1.png",
+      "dateAdded": "2026-05-18T19:30:18.360967"
+    },
+    {
+      "id": "b4b6c5fdbb18",
+      "title": "The Best Of [Disc 1]",
+      "artist": "Rory Gallagher",
+      "year": 2020,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/b4b6c5fdbb18.png",
+      "dateAdded": "2026-05-18T19:30:18.351665"
+    },
+    {
       "id": "c97e7aad4d18",
       "title": "Eternal Life [EP]",
       "artist": "Jeff Buckley",
@@ -1511,5 +1621,5 @@
       "dateAdded": "2026-05-16T20:51:29.938908"
     }
   ],
-  "lastUpdated": "2026-05-17T13:45:05.940258"
+  "lastUpdated": "2026-05-18T19:30:19.143384"
 }
