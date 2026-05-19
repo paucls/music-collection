@@ -1,6 +1,26 @@
 {
   "albums": [
     {
+      "id": "da8249b9eab2",
+      "title": "Rock Or Bust",
+      "artist": "AC/DC",
+      "year": 2014,
+      "genre": "Rock",
+      "type": "digital-alac",
+      "cover": "covers/da8249b9eab2.png",
+      "dateAdded": "2026-05-19T20:35:46.348163"
+    },
+    {
+      "id": "d3cc6ad87a2d",
+      "title": "If You Want Blood You've Got It",
+      "artist": "AC/DC",
+      "year": 1978,
+      "genre": "Rock",
+      "type": "digital-alac",
+      "cover": "covers/d3cc6ad87a2d.png",
+      "dateAdded": "2026-05-19T20:35:46.345213"
+    },
+    {
       "id": "4c0c9f949dc8",
       "title": "Photo-Finish",
       "artist": "Rory Gallagher",
@@ -56,7 +76,7 @@
       "artist": "Rory Gallagher",
       "year": 1971,
       "genre": "Rock",
-      "type": "digital-mp3",
+      "type": "CD",
       "cover": "covers/8da5c9537c0c.png",
       "dateAdded": "2026-05-18T19:30:18.613563"
     },
@@ -256,7 +276,7 @@
       "artist": "Fleetwood Mac",
       "year": 1992,
       "genre": "Rock",
-      "type": "digital-alac",
+      "type": "CD",
       "cover": "covers/9bba3179b4bc.png",
       "dateAdded": "2026-05-16T20:51:30.498678"
     },
@@ -592,11 +612,11 @@
     },
     {
       "id": "47b9ed952380",
-      "title": "Dire Straits - THE Studio Albums 1978 - 1991 (Love Over Gold)",
+      "title": "Love Over Gold",
       "artist": "Dire Straits",
       "year": 2020,
       "genre": "Rock",
-      "type": "digital-alac",
+      "type": "CD",
       "cover": "covers/47b9ed952380.png",
       "dateAdded": "2026-05-16T20:51:30.373510"
     },
@@ -936,7 +956,7 @@
       "artist": "The Pretty Things (& The Yardbirds Blues Band)",
       "year": 1993,
       "genre": "Rock",
-      "type": "digital-alac",
+      "type": "CD",
       "cover": null,
       "dateAdded": "2026-05-16T20:51:30.198855"
     },
@@ -986,7 +1006,7 @@
       "artist": "Donovan",
       "year": 2011,
       "genre": "Country & Folk",
-      "type": "digital-alac",
+      "type": "CD",
       "cover": "covers/ef0121aa6969.png",
       "dateAdded": "2026-05-16T20:51:30.171311"
     },
@@ -1096,7 +1116,7 @@
       "artist": "Led Zeppelin",
       "year": 1971,
       "genre": "Rock",
-      "type": "digital-alac",
+      "type": "CD",
       "cover": "covers/d1d01141fb09.png",
       "dateAdded": "2026-05-16T20:51:30.133625"
     },
@@ -1276,7 +1296,7 @@
       "artist": "Peter Green Splinter Group",
       "year": 1999,
       "genre": "Rock",
-      "type": "digital-alac",
+      "type": "CD",
       "cover": "covers/a8647688b99f.png",
       "dateAdded": "2026-05-16T20:51:30.054984"
     },
@@ -1306,7 +1326,7 @@
       "artist": "Peter Green",
       "year": 1981,
       "genre": "Rock",
-      "type": "digital-alac",
+      "type": "CD",
       "cover": "covers/0efa33092dcd.png",
       "dateAdded": "2026-05-16T20:51:30.041443"
     },
@@ -1496,7 +1516,7 @@
       "artist": "Mike Oldfield",
       "year": 1980,
       "genre": "Rock",
-      "type": "digital-alac",
+      "type": "CD",
       "cover": "covers/79e7db0f4cb3.png",
       "dateAdded": "2026-05-16T20:51:29.972019"
     },
@@ -1506,7 +1526,7 @@
       "artist": "Mike Oldfield",
       "year": 1979,
       "genre": "Rock",
-      "type": "digital-alac",
+      "type": "CD",
       "cover": "covers/6784fdc6f39b.png",
       "dateAdded": "2026-05-16T20:51:29.969922"
     },
@@ -1516,7 +1536,7 @@
       "artist": "Mike Oldfield",
       "year": 1998,
       "genre": "Rock",
-      "type": "digital-alac",
+      "type": "CD",
       "cover": "covers/1796c09c78a1.png",
       "dateAdded": "2026-05-16T20:51:29.966876"
     },
@@ -1526,7 +1546,7 @@
       "artist": "Mike Oldfield",
       "year": 1997,
       "genre": "Rock",
-      "type": "digital-alac",
+      "type": "CD",
       "cover": "covers/b9a7d85264f3.png",
       "dateAdded": "2026-05-16T20:51:29.963930"
     },
@@ -1536,7 +1556,7 @@
       "artist": "Mike Oldfield",
       "year": 1973,
       "genre": "Rock",
-      "type": "digital-alac",
+      "type": "CD",
       "cover": "covers/05f46e14b555.png",
       "dateAdded": "2026-05-16T20:51:29.963128"
     },
@@ -1546,7 +1566,7 @@
       "artist": "Mike Oldfield",
       "year": 2003,
       "genre": "Rock",
-      "type": "digital-alac",
+      "type": "CD",
       "cover": "covers/1a32a38a5cc6.png",
       "dateAdded": "2026-05-16T20:51:29.958363"
     },
@@ -1556,7 +1576,7 @@
       "artist": "Mike Oldfield",
       "year": 1978,
       "genre": "Rock",
-      "type": "digital-alac",
+      "type": "CD",
       "cover": "covers/4cf96a284f21.png",
       "dateAdded": "2026-05-16T20:51:29.957049"
     },
@@ -1566,7 +1586,7 @@
       "artist": "Mike Oldfield",
       "year": 1975,
       "genre": "Rock",
-      "type": "digital-alac",
+      "type": "CD",
       "cover": "covers/4f6fbc4eb637.png",
       "dateAdded": "2026-05-16T20:51:29.956023"
     },
@@ -1621,5 +1641,5 @@
       "dateAdded": "2026-05-16T20:51:29.938908"
     }
   ],
-  "lastUpdated": "2026-05-18T19:30:19.143384"
+  "lastUpdated": "2026-05-19T20:35:48.108921"
 }
