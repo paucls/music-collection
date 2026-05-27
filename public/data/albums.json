@@ -1,6 +1,26 @@
 {
   "albums": [
     {
+      "id": "a7bafd5e754f",
+      "title": "Mystery White Boy",
+      "artist": "Jeff Buckley",
+      "year": 1995,
+      "genre": "Alternative",
+      "type": "digital-alac",
+      "cover": "covers/a7bafd5e754f.png",
+      "dateAdded": "2026-05-27T21:04:08.578686"
+    },
+    {
+      "id": "8afae948e2b6",
+      "title": "Harvest Moon",
+      "artist": "Neil Young",
+      "year": 1992,
+      "genre": "Country & Folk",
+      "type": "digital-alac",
+      "cover": "covers/8afae948e2b6.png",
+      "dateAdded": "2026-05-27T21:04:08.464606"
+    },
+    {
       "id": "da8249b9eab2",
       "title": "Rock Or Bust",
       "artist": "AC/DC",
@@ -1641,5 +1661,5 @@
       "dateAdded": "2026-05-16T20:51:29.938908"
     }
   ],
-  "lastUpdated": "2026-05-19T20:35:48.108921"
+  "lastUpdated": "2026-05-27T21:04:09.830711"
 }
