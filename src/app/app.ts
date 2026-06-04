@@ -120,4 +120,19 @@ export class App implements OnInit {
     }
     return type;
   }
+
+  getAlbumCount(albums: Album[]): number {
+    const albumKeys = new Set<string>();
+
+    albums.forEach(album => {
+      // Remove disc information from title to get base album name
+      // Matches patterns like "[Disc 1]", "[Disc 2]", "[Disc 1 of 2]", etc.
+      const baseTitle = album.title.replace(/\s*\[Disc\s+\d+(?:\s+of\s+\d+)?\]\s*/gi, '').trim();
+      // Create a unique key combining artist and base album title
+      const key = `${album.artist}|${baseTitle}`;
+      albumKeys.add(key);
+    });
+
+    return albumKeys.size;
+  }
 }
