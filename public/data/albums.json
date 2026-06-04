@@ -1,6 +1,86 @@
 {
   "albums": [
     {
+      "id": "e201eadcc49e",
+      "title": "Alive In An Ultra World [Live] [Disc 2]",
+      "artist": "Steve Vai",
+      "year": 2001,
+      "genre": "Metal",
+      "type": "digital-alac",
+      "cover": "covers/e201eadcc49e.png",
+      "dateAdded": "2026-06-04T19:49:49.266440"
+    },
+    {
+      "id": "3423dea77ee5",
+      "title": "Alive In An Ultra World [Live] [Disc 1]",
+      "artist": "Steve Vai",
+      "year": 2001,
+      "genre": "Metal",
+      "type": "digital-alac",
+      "cover": "covers/3423dea77ee5.png",
+      "dateAdded": "2026-06-04T19:49:49.264110"
+    },
+    {
+      "id": "b1ecb99be7e4",
+      "title": "Surfing With The Alien",
+      "artist": "Joe Satriani",
+      "year": 1987,
+      "genre": "Rock",
+      "type": "digital-alac",
+      "cover": "covers/b1ecb99be7e4.png",
+      "dateAdded": "2026-06-04T19:49:49.227269"
+    },
+    {
+      "id": "fb10e1b18361",
+      "title": "Howling For My Darling",
+      "artist": "Howlin' Wolf",
+      "year": 1990,
+      "genre": "Blues",
+      "type": "digital-alac",
+      "cover": "covers/fb10e1b18361.png",
+      "dateAdded": "2026-06-04T19:49:49.222926"
+    },
+    {
+      "id": "e8980fe6106f",
+      "title": "Straight To It",
+      "artist": "The Zac Schulze Gang",
+      "year": 2025,
+      "genre": "Blues",
+      "type": "digital-alac",
+      "cover": "covers/e8980fe6106f.png",
+      "dateAdded": "2026-06-04T19:49:49.219288"
+    },
+    {
+      "id": "e78e5ef9d476",
+      "title": "MK III The Final Concerts [Live] [Disc 2]",
+      "artist": "Deep Purple",
+      "year": 1975,
+      "genre": "Rock",
+      "type": "digital-alac",
+      "cover": "covers/e78e5ef9d476.png",
+      "dateAdded": "2026-06-04T19:49:49.114691"
+    },
+    {
+      "id": "dcead070fa63",
+      "title": "MK III The Final Concerts [Live] [Disc 1]",
+      "artist": "Deep Purple",
+      "year": 1975,
+      "genre": "Rock",
+      "type": "digital-alac",
+      "cover": "covers/dcead070fa63.png",
+      "dateAdded": "2026-06-04T19:49:49.112643"
+    },
+    {
+      "id": "b6eb57e1766b",
+      "title": "Wild Wood",
+      "artist": "Paul Weller",
+      "year": 1993,
+      "genre": "Rock",
+      "type": "digital-alac",
+      "cover": "covers/b6eb57e1766b.png",
+      "dateAdded": "2026-06-04T19:49:48.915100"
+    },
+    {
       "id": "a7bafd5e754f",
       "title": "Mystery White Boy",
       "artist": "Jeff Buckley",
@@ -1661,5 +1741,5 @@
       "dateAdded": "2026-05-16T20:51:29.938908"
     }
   ],
-  "lastUpdated": "2026-05-27T21:04:09.830711"
+  "lastUpdated": "2026-06-04T19:49:50.763909"
 }
