@@ -1,6 +1,76 @@
 {
   "albums": [
     {
+      "id": "1c9c1391ad92",
+      "title": "The Beach Boys",
+      "artist": "The Beach Boys",
+      "year": 2013,
+      "genre": "Rock",
+      "type": "digital-alac",
+      "cover": "covers/1c9c1391ad92.png",
+      "dateAdded": "2026-06-20T08:29:50.178154"
+    },
+    {
+      "id": "6a4c68717b98",
+      "title": "The Best Of Sade",
+      "artist": "Sade",
+      "year": 1994,
+      "genre": "Jazz",
+      "type": "digital-alac",
+      "cover": "covers/6a4c68717b98.png",
+      "dateAdded": "2026-06-20T08:29:50.004075"
+    },
+    {
+      "id": "917fd97d2650",
+      "title": "All Around Man: Live In London [Disc 1]",
+      "artist": "Rory Gallagher",
+      "year": 1990,
+      "genre": "Rock",
+      "type": "digital-alac",
+      "cover": "covers/917fd97d2650.png",
+      "dateAdded": "2026-06-20T08:29:49.472618"
+    },
+    {
+      "id": "91064378a555",
+      "title": "All Around Man: Live In London [Disc 2]",
+      "artist": "Rory Gallagher",
+      "year": 1990,
+      "genre": "Rock",
+      "type": "digital-alac",
+      "cover": "covers/91064378a555.png",
+      "dateAdded": "2026-06-20T08:29:49.462263"
+    },
+    {
+      "id": "f1e1c952d5d4",
+      "title": "The Essential Van Morrison [Disc 1]",
+      "artist": "Them",
+      "year": 1966,
+      "genre": "Rock",
+      "type": "digital-alac",
+      "cover": "covers/f1e1c952d5d4.png",
+      "dateAdded": "2026-06-20T08:29:49.075480"
+    },
+    {
+      "id": "dd0f61f51826",
+      "title": "The Essential Van Morrison [Disc 1]",
+      "artist": "Van Morrison",
+      "year": 1970,
+      "genre": "Rock",
+      "type": "digital-alac",
+      "cover": "covers/dd0f61f51826.png",
+      "dateAdded": "2026-06-20T08:29:49.072577"
+    },
+    {
+      "id": "e14adf6778b2",
+      "title": "Live Taste",
+      "artist": "Taste",
+      "year": 1971,
+      "genre": "Rock",
+      "type": "digital-alac",
+      "cover": "covers/e14adf6778b2.png",
+      "dateAdded": "2026-06-20T08:29:48.929361"
+    },
+    {
       "id": "e201eadcc49e",
       "title": "Alive In An Ultra World [Live] [Disc 2]",
       "artist": "Steve Vai",
@@ -1741,5 +1811,5 @@
       "dateAdded": "2026-05-16T20:51:29.938908"
     }
   ],
-  "lastUpdated": "2026-06-04T19:49:50.763909"
+  "lastUpdated": "2026-06-20T08:29:50.288181"
 }
