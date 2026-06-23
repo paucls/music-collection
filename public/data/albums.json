@@ -1,6 +1,16 @@
 {
   "albums": [
     {
+      "id": "6deabe96f140",
+      "title": "Money For Nothing",
+      "artist": "Dire Straits",
+      "year": 1988,
+      "genre": "Rock",
+      "type": "CD",
+      "cover": "covers/6deabe96f140.png",
+      "dateAdded": "2026-06-23T18:51:46.116243"
+    },
+    {
       "id": "b5ab1950de25",
       "title": "The Essential Van Morrison [Disc 2]",
       "artist": "Van Morrison",
@@ -799,16 +809,6 @@
       "type": "CD",
       "cover": "covers/47b9ed952380.png",
       "dateAdded": "2026-05-16T20:51:30.373510"
-    },
-    {
-      "id": "6deabe96f140",
-      "title": "Money For Nothing",
-      "artist": "Dire Straits",
-      "year": 1988,
-      "genre": "Rock",
-      "type": "digital-mp3",
-      "cover": "covers/6deabe96f140.jpg",
-      "dateAdded": "2026-05-16T20:51:30.370194"
     },
     {
       "id": "99873e7aae12",
@@ -1821,5 +1821,5 @@
       "dateAdded": "2026-05-16T20:51:29.938908"
     }
   ],
-  "lastUpdated": "2026-06-23T07:51:20.865032"
+  "lastUpdated": "2026-06-23T18:51:46.619801"
 }
