@@ -1,12 +1,13 @@
 import { Component, OnInit, ChangeDetectorRef } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { FormsModule } from '@angular/forms';
 import { AlbumService, Album } from './album.service';
 import { AlbumComponent } from './album.component';
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [CommonModule, AlbumComponent],
+  imports: [CommonModule, FormsModule, AlbumComponent],
   templateUrl: './app.html',
   styleUrl: './app.css'
 })
@@ -19,8 +20,9 @@ export class App implements OnInit {
   artists: string[] = [];
   showDropdown = false;
   selectedTypes: Set<string> = new Set();
-  types: string[] = ['vinyl', 'CD', 'digital-mp3', 'digital-alac'];
+  types: string[] = ['CD', 'digital-mp3', 'digital-alac','vinyl'];
   showTypeDropdown = false;
+  searchTerm: string = '';
 
   constructor(private albumService: AlbumService, private cdr: ChangeDetectorRef) {}
 
@@ -72,10 +74,21 @@ export class App implements OnInit {
   applyFilter() {
     let result = [...this.albums];
 
+    // Apply search filter
+    if (this.searchTerm && this.searchTerm.trim()) {
+      const searchLower = this.searchTerm.toLowerCase().trim();
+      result = result.filter(album =>
+        album.title.toLowerCase().includes(searchLower) ||
+        album.artist.toLowerCase().includes(searchLower)
+      );
+    }
+
+    // Apply artist filter
     if (this.selectedArtists.size > 0) {
       result = result.filter(album => this.selectedArtists.has(album.artist));
     }
 
+    // Apply type filter
     if (this.selectedTypes.size > 0) {
       result = result.filter(album => this.selectedTypes.has(album.type));
     }
@@ -89,6 +102,10 @@ export class App implements OnInit {
     } else {
       this.selectedTypes.add(type);
     }
+    this.applyFilter();
+  }
+
+  onSearchChange() {
     this.applyFilter();
   }
 

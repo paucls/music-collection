@@ -1,6 +1,16 @@
 <header>
   <h1>My Music Collection</h1>
   <div class="filter-section" *ngIf="!loading && !error">
+    <div class="search-section">
+      <label>Search:</label>
+      <input
+        type="text"
+        class="search-input"
+        placeholder="Search albums by title or artist..."
+        [(ngModel)]="searchTerm"
+        (input)="onSearchChange()"
+      />
+    </div>
     <label>Filter by Artist:</label>
     <div class="multiselect-dropdown" [class.open]="showDropdown">
       <div class="dropdown-trigger" (click)="toggleDropdown()">
