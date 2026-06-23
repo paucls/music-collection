@@ -1,6 +1,26 @@
 {
   "albums": [
     {
+      "id": "b5ab1950de25",
+      "title": "The Essential Van Morrison [Disc 2]",
+      "artist": "Van Morrison",
+      "year": 2006,
+      "genre": "Rock",
+      "type": "digital-alac",
+      "cover": "covers/b5ab1950de25.png",
+      "dateAdded": "2026-06-23T07:51:19.984381"
+    },
+    {
+      "id": "46cb810cad9f",
+      "title": "After The War",
+      "artist": "Gary Moore",
+      "year": 1989,
+      "genre": "Rock",
+      "type": "CD",
+      "cover": "covers/46cb810cad9f.png",
+      "dateAdded": "2026-06-23T07:51:19.236715"
+    },
+    {
       "id": "1c9c1391ad92",
       "title": "The Beach Boys",
       "artist": "The Beach Boys",
@@ -39,16 +59,6 @@
       "type": "digital-alac",
       "cover": "covers/91064378a555.png",
       "dateAdded": "2026-06-20T08:29:49.462263"
-    },
-    {
-      "id": "f1e1c952d5d4",
-      "title": "The Essential Van Morrison [Disc 1]",
-      "artist": "Them",
-      "year": 1966,
-      "genre": "Rock",
-      "type": "digital-alac",
-      "cover": "covers/f1e1c952d5d4.png",
-      "dateAdded": "2026-06-20T08:29:49.075480"
     },
     {
       "id": "dd0f61f51826",
@@ -1811,5 +1821,5 @@
       "dateAdded": "2026-05-16T20:51:29.938908"
     }
   ],
-  "lastUpdated": "2026-06-20T08:29:50.288181"
+  "lastUpdated": "2026-06-23T07:51:20.865032"
 }
