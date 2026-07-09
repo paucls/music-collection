@@ -1,6 +1,1846 @@
 {
   "albums": [
     {
+      "id": "fbe400b30668",
+      "title": "Hard Rain",
+      "artist": "Bob Dylan",
+      "year": 1976,
+      "genre": "Rock",
+      "type": "digital-alac",
+      "cover": "covers/fbe400b30668.jpg",
+      "dateAdded": "2026-07-09T07:27:41.225272"
+    },
+    {
+      "id": "97b51e001235",
+      "title": "Dylan",
+      "artist": "Bob Dylan",
+      "year": 2007,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/97b51e001235.png",
+      "dateAdded": "2026-07-09T07:27:41.185431"
+    },
+    {
+      "id": "37f9021bdcfc",
+      "title": "Somewhere In Time",
+      "artist": "Iron Maiden",
+      "year": 1986,
+      "genre": "Metal",
+      "type": "digital-mp3",
+      "cover": "covers/37f9021bdcfc.png",
+      "dateAdded": "2026-07-09T07:27:41.165484"
+    },
+    {
+      "id": "e87ba71b7200",
+      "title": "Iron Maiden",
+      "artist": "Iron Maiden",
+      "year": 1980,
+      "genre": "Metal",
+      "type": "digital-mp3",
+      "cover": "covers/e87ba71b7200.jpg",
+      "dateAdded": "2026-07-09T07:27:41.159342"
+    },
+    {
+      "id": "ec7e84c64e32",
+      "title": "Fear Of The Dark",
+      "artist": "Iron Maiden",
+      "year": 1992,
+      "genre": "Metal",
+      "type": "digital-mp3",
+      "cover": "covers/ec7e84c64e32.jpg",
+      "dateAdded": "2026-07-09T07:27:41.152972"
+    },
+    {
+      "id": "f0ea4ecff7aa",
+      "title": "A Real Dead One",
+      "artist": "Iron Maiden",
+      "year": 1993,
+      "genre": "Metal",
+      "type": "digital-mp3",
+      "cover": "covers/f0ea4ecff7aa.jpg",
+      "dateAdded": "2026-07-09T07:27:41.144097"
+    },
+    {
+      "id": "98a344e770ac",
+      "title": "Live After Death",
+      "artist": "Iron Maiden",
+      "year": 1985,
+      "genre": "Metal",
+      "type": "digital-mp3",
+      "cover": "covers/98a344e770ac.jpg",
+      "dateAdded": "2026-07-09T07:27:41.129693"
+    },
+    {
+      "id": "5178a6cbf0a7",
+      "title": "Rock In Rio",
+      "artist": "Iron Maiden",
+      "year": 2002,
+      "genre": "Metal",
+      "type": "digital-mp3",
+      "cover": "covers/5178a6cbf0a7.png",
+      "dateAdded": "2026-07-09T07:27:41.110767"
+    },
+    {
+      "id": "e8dd94db61d5",
+      "title": "A Real Live One",
+      "artist": "Iron Maiden",
+      "year": 1993,
+      "genre": "Metal",
+      "type": "digital-mp3",
+      "cover": "covers/e8dd94db61d5.jpg",
+      "dateAdded": "2026-07-09T07:27:41.098808"
+    },
+    {
+      "id": "240be6ef405c",
+      "title": "Best Of The Beast",
+      "artist": "Iron Maiden",
+      "year": 1996,
+      "genre": "Metal",
+      "type": "digital-mp3",
+      "cover": "covers/240be6ef405c.png",
+      "dateAdded": "2026-07-09T07:27:41.073677"
+    },
+    {
+      "id": "ebbb8d61ddc7",
+      "title": "Killers",
+      "artist": "Iron Maiden",
+      "year": 1981,
+      "genre": "Metal",
+      "type": "digital-mp3",
+      "cover": "covers/ebbb8d61ddc7.jpg",
+      "dateAdded": "2026-07-09T07:27:41.066652"
+    },
+    {
+      "id": "513b387b4190",
+      "title": "Seventh Son Of A Seventh Son",
+      "artist": "Iron Maiden",
+      "year": 1988,
+      "genre": "Metal",
+      "type": "digital-mp3",
+      "cover": "covers/513b387b4190.jpg",
+      "dateAdded": "2026-07-09T07:27:41.060973"
+    },
+    {
+      "id": "72ae4c7a5e91",
+      "title": "The Final Frontier",
+      "artist": "Iron Maiden",
+      "year": 2010,
+      "genre": "Metal",
+      "type": "digital-mp3",
+      "cover": "covers/72ae4c7a5e91.jpg",
+      "dateAdded": "2026-07-09T07:27:41.047800"
+    },
+    {
+      "id": "86a3229d523f",
+      "title": "No Prayer For The Dying",
+      "artist": "Iron Maiden",
+      "year": 1990,
+      "genre": "Metal",
+      "type": "digital-mp3",
+      "cover": "covers/86a3229d523f.jpg",
+      "dateAdded": "2026-07-09T07:27:41.040239"
+    },
+    {
+      "id": "5e082f74d01b",
+      "title": "Live At Donington",
+      "artist": "Iron Maiden",
+      "year": 1992,
+      "genre": "Metal",
+      "type": "digital-mp3",
+      "cover": "covers/5e082f74d01b.png",
+      "dateAdded": "2026-07-09T07:27:41.024414"
+    },
+    {
+      "id": "e84ce00baac1",
+      "title": "The Number Of The Beast",
+      "artist": "Iron Maiden",
+      "year": 1982,
+      "genre": "Metal",
+      "type": "digital-mp3",
+      "cover": "covers/e84ce00baac1.jpg",
+      "dateAdded": "2026-07-09T07:27:41.018192"
+    },
+    {
+      "id": "5660ba45de31",
+      "title": "The X Factor",
+      "artist": "Iron Maiden",
+      "year": 1995,
+      "genre": "Metal",
+      "type": "digital-mp3",
+      "cover": "covers/5660ba45de31.png",
+      "dateAdded": "2026-07-09T07:27:41.008385"
+    },
+    {
+      "id": "e4efa2ffda34",
+      "title": "Powerslave",
+      "artist": "Iron Maiden",
+      "year": 1984,
+      "genre": "Metal",
+      "type": "digital-mp3",
+      "cover": "covers/e4efa2ffda34.jpg",
+      "dateAdded": "2026-07-09T07:27:41.001632"
+    },
+    {
+      "id": "090b786cd217",
+      "title": "VIrtual XI",
+      "artist": "Iron Maiden",
+      "year": 1998,
+      "genre": "Metal",
+      "type": "digital-mp3",
+      "cover": "covers/090b786cd217.png",
+      "dateAdded": "2026-07-09T07:27:40.994730"
+    },
+    {
+      "id": "beb1e5e125e1",
+      "title": "Edward the Great",
+      "artist": "Iron Maiden",
+      "year": 2002,
+      "genre": "Metal",
+      "type": "digital-mp3",
+      "cover": "covers/beb1e5e125e1.png",
+      "dateAdded": "2026-07-09T07:27:40.981619"
+    },
+    {
+      "id": "ebc9f03f23e9",
+      "title": "Piece Of Mind",
+      "artist": "Iron Maiden",
+      "year": 1983,
+      "genre": "Metal",
+      "type": "digital-mp3",
+      "cover": "covers/ebc9f03f23e9.jpg",
+      "dateAdded": "2026-07-09T07:27:40.974775"
+    },
+    {
+      "id": "3c0ce42a9246",
+      "title": "Brave New World",
+      "artist": "Iron Maiden",
+      "year": 2000,
+      "genre": "Metal",
+      "type": "digital-mp3",
+      "cover": "covers/3c0ce42a9246.png",
+      "dateAdded": "2026-07-09T07:27:40.965373"
+    },
+    {
+      "id": "bcfdb034992e",
+      "title": "Dance Of Death",
+      "artist": "Iron Maiden",
+      "year": 2003,
+      "genre": "Metal",
+      "type": "digital-mp3",
+      "cover": "covers/bcfdb034992e.png",
+      "dateAdded": "2026-07-09T07:27:40.955359"
+    },
+    {
+      "id": "81e7a38d1e30",
+      "title": "Kaya",
+      "artist": "Bob Marley",
+      "year": 1978,
+      "genre": "Reggae",
+      "type": "digital-mp3",
+      "cover": "covers/81e7a38d1e30.png",
+      "dateAdded": "2026-07-09T07:27:40.947360"
+    },
+    {
+      "id": "6234ecad853e",
+      "title": "Uprising",
+      "artist": "Bob Marley",
+      "year": 1980,
+      "genre": "Reggae",
+      "type": "digital-mp3",
+      "cover": "covers/6234ecad853e.png",
+      "dateAdded": "2026-07-09T07:27:40.939391"
+    },
+    {
+      "id": "09968e531bc2",
+      "title": "Exodus",
+      "artist": "Bob Marley",
+      "year": 1977,
+      "genre": "Reggae",
+      "type": "digital-mp3",
+      "cover": "covers/09968e531bc2.png",
+      "dateAdded": "2026-07-09T07:27:40.930161"
+    },
+    {
+      "id": "39bc99a2b243",
+      "title": "Legend",
+      "artist": "Bob Marley",
+      "year": 1984,
+      "genre": "Reggae",
+      "type": "digital-mp3",
+      "cover": "covers/39bc99a2b243.png",
+      "dateAdded": "2026-07-09T07:27:40.916384"
+    },
+    {
+      "id": "17b28ce0cd78",
+      "title": "Trash",
+      "artist": "Alice Cooper",
+      "year": 1989,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/17b28ce0cd78.jpg",
+      "dateAdded": "2026-07-09T07:27:40.861839"
+    },
+    {
+      "id": "dbcc553d8ef6",
+      "title": "The Odyssey",
+      "artist": "Symphony X",
+      "year": 2002,
+      "genre": "Progressive Rock",
+      "type": "digital-mp3",
+      "cover": "covers/dbcc553d8ef6.jpg",
+      "dateAdded": "2026-07-09T07:27:40.855365"
+    },
+    {
+      "id": "506b3ffdbf49",
+      "title": "300 O.S.T",
+      "artist": "Tyler Bates",
+      "year": 2007,
+      "genre": "Soundtracks",
+      "type": "digital-mp3",
+      "cover": "covers/506b3ffdbf49.png",
+      "dateAdded": "2026-07-09T07:27:40.834479"
+    },
+    {
+      "id": "ceaaae7fc043",
+      "title": "Under Cover",
+      "artist": "Rolling Stones",
+      "year": 1983,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/ceaaae7fc043.jpg",
+      "dateAdded": "2026-07-09T07:27:40.621131"
+    },
+    {
+      "id": "ab2e88301e17",
+      "title": "Big Hits - High tide and green grass",
+      "artist": "Rolling Stones",
+      "year": 1966,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/ab2e88301e17.png",
+      "dateAdded": "2026-07-09T07:27:40.611562"
+    },
+    {
+      "id": "09854e098383",
+      "title": "Beggars Banquet",
+      "artist": "Rolling Stones",
+      "year": 1968,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/09854e098383.png",
+      "dateAdded": "2026-07-09T07:27:40.601506"
+    },
+    {
+      "id": "fdf12c554c48",
+      "title": "Excile on Main Street",
+      "artist": "Rolling Stones",
+      "year": 1972,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/fdf12c554c48.png",
+      "dateAdded": "2026-07-09T07:27:40.584185"
+    },
+    {
+      "id": "c7e20e6e0968",
+      "title": "The Inner Mounting Flame",
+      "artist": "Mahavishnu Orchestra",
+      "year": 1971,
+      "genre": "Jazz",
+      "type": "digital-alac",
+      "cover": "covers/c7e20e6e0968.png",
+      "dateAdded": "2026-07-09T07:27:40.516218"
+    },
+    {
+      "id": "39f476dabde2",
+      "title": "Birds Of Fire",
+      "artist": "Mahavishnu Orchestra",
+      "year": 1973,
+      "genre": "Jazz",
+      "type": "digital-alac",
+      "cover": "covers/39f476dabde2.png",
+      "dateAdded": "2026-07-09T07:27:40.512754"
+    },
+    {
+      "id": "59bd055ae471",
+      "title": "The Best Of Kansas",
+      "artist": "Kansas",
+      "year": 2000,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/59bd055ae471.png",
+      "dateAdded": "2026-07-09T07:27:40.500087"
+    },
+    {
+      "id": "f2f8ef9f8058",
+      "title": "Goddess In The Doorway",
+      "artist": "Mick Jagger",
+      "year": 2001,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/f2f8ef9f8058.png",
+      "dateAdded": "2026-07-09T07:27:40.489691"
+    },
+    {
+      "id": "b314123f1a9d",
+      "title": "Systematic Chaos",
+      "artist": "Dream Theater",
+      "year": 2007,
+      "genre": "Progressive Rock",
+      "type": "digital-mp3",
+      "cover": "covers/b314123f1a9d.png",
+      "dateAdded": "2026-07-09T07:27:40.481917"
+    },
+    {
+      "id": "34edc22a4434",
+      "title": "Awake",
+      "artist": "Dream Theater",
+      "year": 1994,
+      "genre": "Progressive Rock",
+      "type": "digital-mp3",
+      "cover": "covers/34edc22a4434.jpg",
+      "dateAdded": "2026-07-09T07:27:40.473701"
+    },
+    {
+      "id": "e4f3578cf692",
+      "title": "Falling Into Infinity",
+      "artist": "Dream Theater",
+      "year": 1997,
+      "genre": "Progressive Rock",
+      "type": "digital-mp3",
+      "cover": "covers/e4f3578cf692.jpg",
+      "dateAdded": "2026-07-09T07:27:40.465403"
+    },
+    {
+      "id": "bc6f9c94a2d1",
+      "title": "Once in a Livetime",
+      "artist": "Dream Theater",
+      "year": 1998,
+      "genre": "Progressive Rock",
+      "type": "digital-mp3",
+      "cover": "covers/bc6f9c94a2d1.jpg",
+      "dateAdded": "2026-07-09T07:27:40.446600"
+    },
+    {
+      "id": "56300f96730e",
+      "title": "Instrumental 1987",
+      "artist": "Dream Theater",
+      "year": 0,
+      "genre": "Progressive Rock",
+      "type": "digital-mp3",
+      "cover": "covers/56300f96730e.png",
+      "dateAdded": "2026-07-09T07:27:40.440402"
+    },
+    {
+      "id": "657d7a16b1cc",
+      "title": "Images and Words",
+      "artist": "Dream Theater",
+      "year": 1992,
+      "genre": "Progressive Rock",
+      "type": "digital-mp3",
+      "cover": "covers/657d7a16b1cc.jpg",
+      "dateAdded": "2026-07-09T07:27:40.432015"
+    },
+    {
+      "id": "97e3f348a0ca",
+      "title": "Black Clouds & Silver Linings",
+      "artist": "Dream Theater",
+      "year": 2009,
+      "genre": "Progressive Rock",
+      "type": "digital-mp3",
+      "cover": "covers/97e3f348a0ca.jpg",
+      "dateAdded": "2026-07-09T07:27:40.407918"
+    },
+    {
+      "id": "2aeae70e46de",
+      "title": "Scenes from a Memory",
+      "artist": "Dream Theater",
+      "year": 0,
+      "genre": "Progressive Rock",
+      "type": "digital-mp3",
+      "cover": "covers/2aeae70e46de.jpg",
+      "dateAdded": "2026-07-09T07:27:40.401961"
+    },
+    {
+      "id": "1dd977272fd7",
+      "title": "Six Degrees of Inner Turbulence",
+      "artist": "Dream Theater",
+      "year": 2002,
+      "genre": "Progressive Rock",
+      "type": "digital-mp3",
+      "cover": "covers/1dd977272fd7.jpg",
+      "dateAdded": "2026-07-09T07:27:40.377687"
+    },
+    {
+      "id": "7fe4c482d53f",
+      "title": "To Dimension Logic",
+      "artist": "Vauxdvihl",
+      "year": 1994,
+      "genre": "Progressive Rock",
+      "type": "digital-mp3",
+      "cover": "covers/7fe4c482d53f.jpg",
+      "dateAdded": "2026-07-09T07:27:40.322035"
+    },
+    {
+      "id": "12ffd97213b6",
+      "title": "Stadium Arcadium",
+      "artist": "Red Hot Chili Peppers",
+      "year": 2006,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/12ffd97213b6.jpg",
+      "dateAdded": "2026-07-09T07:27:40.229686"
+    },
+    {
+      "id": "9ffeda098f0b",
+      "title": "Californication",
+      "artist": "Red Hot Chili Peppers",
+      "year": 1999,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/9ffeda098f0b.jpg",
+      "dateAdded": "2026-07-09T07:27:40.203126"
+    },
+    {
+      "id": "fb3a3928cd35",
+      "title": "The Very Best of Cream",
+      "artist": "Cream",
+      "year": 1995,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/fb3a3928cd35.jpg",
+      "dateAdded": "2026-07-09T07:27:40.173210"
+    },
+    {
+      "id": "67455c28d913",
+      "title": "Abbey Road",
+      "artist": "The Beatles",
+      "year": 1990,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/67455c28d913.png",
+      "dateAdded": "2026-07-09T07:27:40.122533"
+    },
+    {
+      "id": "28e264331844",
+      "title": "Revolver",
+      "artist": "The Beatles",
+      "year": 1966,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/28e264331844.png",
+      "dateAdded": "2026-07-09T07:27:40.107010"
+    },
+    {
+      "id": "883ed7e86805",
+      "title": "Let It Be",
+      "artist": "The Beatles",
+      "year": 1970,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/883ed7e86805.png",
+      "dateAdded": "2026-07-09T07:27:40.093105"
+    },
+    {
+      "id": "37463493d8af",
+      "title": "Love",
+      "artist": "The Beatles",
+      "year": 2006,
+      "genre": "Pop",
+      "type": "digital-mp3",
+      "cover": "covers/37463493d8af.jpg",
+      "dateAdded": "2026-07-09T07:27:40.067026"
+    },
+    {
+      "id": "f37172323fff",
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "artist": "The Beatles",
+      "year": 1967,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/f37172323fff.jpg",
+      "dateAdded": "2026-07-09T07:27:40.050607"
+    },
+    {
+      "id": "1ff2223d09b0",
+      "title": "Are You Experienced?",
+      "artist": "Jimi Hendrix",
+      "year": 1967,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/1ff2223d09b0.jpg",
+      "dateAdded": "2026-07-09T07:27:40.021993"
+    },
+    {
+      "id": "f5787e633918",
+      "title": "No Remorse",
+      "artist": "Motorhead",
+      "year": 2005,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/f5787e633918.jpg",
+      "dateAdded": "2026-07-09T07:27:39.943610"
+    },
+    {
+      "id": "60d8bc6c2c74",
+      "title": "March Or Die",
+      "artist": "Motorhead",
+      "year": 1992,
+      "genre": "Metal",
+      "type": "digital-mp3",
+      "cover": "covers/60d8bc6c2c74.jpg",
+      "dateAdded": "2026-07-09T07:27:39.935346"
+    },
+    {
+      "id": "ce76c20c7479",
+      "title": "The Best of Britny Fox",
+      "artist": "Britny Fox",
+      "year": 2001,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/ce76c20c7479.jpg",
+      "dateAdded": "2026-07-09T07:27:39.830992"
+    },
+    {
+      "id": "2a998f70bfc3",
+      "title": "Minority Report",
+      "artist": "John Williams",
+      "year": 2002,
+      "genre": "Soundtracks",
+      "type": "digital-mp3",
+      "cover": "covers/2a998f70bfc3.jpg",
+      "dateAdded": "2026-07-09T07:27:39.818125"
+    },
+    {
+      "id": "cdefb0334163",
+      "title": "Indiana Jones and the Temple of Doom",
+      "artist": "John Williams",
+      "year": 2008,
+      "genre": "Soundtracks",
+      "type": "digital-mp3",
+      "cover": "covers/cdefb0334163.png",
+      "dateAdded": "2026-07-09T07:27:39.805116"
+    },
+    {
+      "id": "c6ad69cf625d",
+      "title": "The Piper At The Gates Of Dawn",
+      "artist": "Pink Floyd",
+      "year": 1967,
+      "genre": "Progressive Rock",
+      "type": "digital-mp3",
+      "cover": "covers/c6ad69cf625d.png",
+      "dateAdded": "2026-07-09T07:27:39.620391"
+    },
+    {
+      "id": "066d58f4bdc0",
+      "title": "Meddle",
+      "artist": "Pink Floyd",
+      "year": 1971,
+      "genre": "Progressive Rock",
+      "type": "digital-mp3",
+      "cover": "covers/066d58f4bdc0.jpg",
+      "dateAdded": "2026-07-09T07:27:39.593229"
+    },
+    {
+      "id": "e1a03793a39c",
+      "title": "Obscured By Clouds",
+      "artist": "Pink Floyd",
+      "year": 1972,
+      "genre": "Progressive Rock",
+      "type": "digital-mp3",
+      "cover": "covers/e1a03793a39c.jpg",
+      "dateAdded": "2026-07-09T07:27:39.569189"
+    },
+    {
+      "id": "cb72ec1c69be",
+      "title": "A Saucerful of Secrets (Japan)",
+      "artist": "Pink Floyd",
+      "year": 1968,
+      "genre": "Progressive Rock",
+      "type": "digital-mp3",
+      "cover": "covers/cb72ec1c69be.jpg",
+      "dateAdded": "2026-07-09T07:27:39.547365"
+    },
+    {
+      "id": "bc6ee43cc6f6",
+      "title": "The Final Cut",
+      "artist": "Pink Floyd",
+      "year": 1982,
+      "genre": "Progressive Rock",
+      "type": "digital-mp3",
+      "cover": "covers/bc6ee43cc6f6.jpg",
+      "dateAdded": "2026-07-09T07:27:39.537985"
+    },
+    {
+      "id": "c67dc90a5682",
+      "title": "The Wall",
+      "artist": "Pink Floyd",
+      "year": 1979,
+      "genre": "Progressive Rock",
+      "type": "digital-mp3",
+      "cover": "covers/c67dc90a5682.jpg",
+      "dateAdded": "2026-07-09T07:27:39.493702"
+    },
+    {
+      "id": "54a20c5196c2",
+      "title": "More",
+      "artist": "Pink Floyd",
+      "year": 1969,
+      "genre": "Progressive Rock",
+      "type": "digital-mp3",
+      "cover": "covers/54a20c5196c2.jpg",
+      "dateAdded": "2026-07-09T07:27:39.468002"
+    },
+    {
+      "id": "d798392988d5",
+      "title": "The Dark Side Of The Moon",
+      "artist": "Pink Floyd",
+      "year": 1973,
+      "genre": "Progressive Rock",
+      "type": "digital-mp3",
+      "cover": "covers/d798392988d5.png",
+      "dateAdded": "2026-07-09T07:27:39.461653"
+    },
+    {
+      "id": "8f699476a54d",
+      "title": "Atom Heart Mother",
+      "artist": "Pink Floyd",
+      "year": 1970,
+      "genre": "Progressive Rock",
+      "type": "digital-mp3",
+      "cover": "covers/8f699476a54d.jpg",
+      "dateAdded": "2026-07-09T07:27:39.441887"
+    },
+    {
+      "id": "847c0e55d777",
+      "title": "Echoes: The Best of Pink Floyd",
+      "artist": "Pink Floyd",
+      "year": 2001,
+      "genre": "Progressive Rock",
+      "type": "digital-mp3",
+      "cover": "covers/847c0e55d777.jpg",
+      "dateAdded": "2026-07-09T07:27:39.342148"
+    },
+    {
+      "id": "94c123afecd0",
+      "title": "She ",
+      "artist": "Grand Avenue",
+      "year": 2005,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/94c123afecd0.png",
+      "dateAdded": "2026-07-09T07:27:39.129397"
+    },
+    {
+      "id": "3f49e65d3190",
+      "title": "Blur",
+      "artist": "Blur",
+      "year": 1997,
+      "genre": "Pop rock",
+      "type": "digital-mp3",
+      "cover": "covers/3f49e65d3190.png",
+      "dateAdded": "2026-07-09T07:27:39.075111"
+    },
+    {
+      "id": "a29eec47e408",
+      "title": "Achtung Baby",
+      "artist": "U2",
+      "year": 1991,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/a29eec47e408.jpg",
+      "dateAdded": "2026-07-09T07:27:38.955814"
+    },
+    {
+      "id": "f3efd2688341",
+      "title": "How to Dismantle an Atomic Bomb",
+      "artist": "U2",
+      "year": 2004,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/f3efd2688341.jpg",
+      "dateAdded": "2026-07-09T07:27:38.947819"
+    },
+    {
+      "id": "33a2fab74bbf",
+      "title": "U218 Singles",
+      "artist": "U2",
+      "year": 2006,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/33a2fab74bbf.jpg",
+      "dateAdded": "2026-07-09T07:27:38.932308"
+    },
+    {
+      "id": "5b730a699d75",
+      "title": "The Joshua Tree: 20th Anniversary Edition",
+      "artist": "U2",
+      "year": 2007,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/5b730a699d75.png",
+      "dateAdded": "2026-07-09T07:27:38.893413"
+    },
+    {
+      "id": "f8ee67a2760e",
+      "title": "All The You Can't Leave Behind",
+      "artist": "U2",
+      "year": 0,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/f8ee67a2760e.jpg",
+      "dateAdded": "2026-07-09T07:27:38.885720"
+    },
+    {
+      "id": "d8046e2fa9a5",
+      "title": "Hechizo (Tributo a Bunbury y Heroes Del Silencio)",
+      "artist": "Heroes del Silencio",
+      "year": 2010,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/d8046e2fa9a5.jpg",
+      "dateAdded": "2026-07-09T07:27:38.769301"
+    },
+    {
+      "id": "1e7b2151fa99",
+      "title": "Nevermind",
+      "artist": "Nirvana",
+      "year": 1991,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/1e7b2151fa99.jpg",
+      "dateAdded": "2026-07-09T07:27:38.752126"
+    },
+    {
+      "id": "88283880be63",
+      "title": "The Best of Van Halen, Vol. 1",
+      "artist": "Van Halen",
+      "year": 1996,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/88283880be63.jpg",
+      "dateAdded": "2026-07-09T07:27:38.727818"
+    },
+    {
+      "id": "1b984d90f44e",
+      "title": "The Best of Both Worlds",
+      "artist": "Van Halen",
+      "year": 2004,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/1b984d90f44e.jpg",
+      "dateAdded": "2026-07-09T07:27:38.652820"
+    },
+    {
+      "id": "29cc4fcf5b06",
+      "title": "Best Of Whitesnake",
+      "artist": "Whitesnake",
+      "year": 2003,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/29cc4fcf5b06.jpg",
+      "dateAdded": "2026-07-09T07:27:38.642637"
+    },
+    {
+      "id": "e84f016cc6d2",
+      "title": "Blues Deluxe",
+      "artist": "Joe Bonamassa",
+      "year": 2003,
+      "genre": "Blues",
+      "type": "digital-mp3",
+      "cover": "covers/e84f016cc6d2.jpg",
+      "dateAdded": "2026-07-09T07:27:38.626836"
+    },
+    {
+      "id": "384cb56d8827",
+      "title": "Cloud Atlas (Original Motion Picture Soundtrack)",
+      "artist": "Tom Tykwer, Johnny Klimek, Reinhold Heil & Gabriel Mounsey",
+      "year": 0,
+      "genre": "Soundtracks",
+      "type": "digital-mp3",
+      "cover": "covers/384cb56d8827.jpg",
+      "dateAdded": "2026-07-09T07:27:38.606687"
+    },
+    {
+      "id": "180668b0c1f0",
+      "title": "Cloud Atlas (Original Motion Picture Soundtrack)",
+      "artist": "Tom Tykwer, Johnny Klimek, Reinhold Heil & Gene Pritsker",
+      "year": 0,
+      "genre": "Soundtracks",
+      "type": "digital-mp3",
+      "cover": "covers/180668b0c1f0.jpg",
+      "dateAdded": "2026-07-09T07:27:38.596296"
+    },
+    {
+      "id": "ef31ec83d48f",
+      "title": "Cloud Atlas (Original Motion Picture Soundtrack)",
+      "artist": "Tom Tykwer, Johnny Klimek & Reinhold Heil",
+      "year": 0,
+      "genre": "Soundtracks",
+      "type": "digital-mp3",
+      "cover": "covers/ef31ec83d48f.jpg",
+      "dateAdded": "2026-07-09T07:27:38.592191"
+    },
+    {
+      "id": "6396b7255498",
+      "title": "Motley Crue - Greatest Hits",
+      "artist": "Mötley Crüe",
+      "year": 2003,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/6396b7255498.jpg",
+      "dateAdded": "2026-07-09T07:27:38.580263"
+    },
+    {
+      "id": "ceaaa4042303",
+      "title": "Animal Magnetism",
+      "artist": "Scorpions",
+      "year": 1990,
+      "genre": "Metal",
+      "type": "digital-mp3",
+      "cover": "covers/ceaaa4042303.jpg",
+      "dateAdded": "2026-07-09T07:27:38.553457"
+    },
+    {
+      "id": "b38748eaa451",
+      "title": "Unbreakable",
+      "artist": "Scorpions",
+      "year": 2004,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/b38748eaa451.jpg",
+      "dateAdded": "2026-07-09T07:27:38.539631"
+    },
+    {
+      "id": "0b6ba6685184",
+      "title": "Acoustica",
+      "artist": "Scorpions",
+      "year": 2001,
+      "genre": "Metal",
+      "type": "digital-mp3",
+      "cover": "covers/0b6ba6685184.jpg",
+      "dateAdded": "2026-07-09T07:27:38.529946"
+    },
+    {
+      "id": "2d1083251e65",
+      "title": "Who's Next (Deluxe Edition).",
+      "artist": "The Who",
+      "year": 1971,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/2d1083251e65.png",
+      "dateAdded": "2026-07-09T07:27:38.499862"
+    },
+    {
+      "id": "5dc7eba84ee2",
+      "title": " Keeper Of The Seven Keys Pt 2",
+      "artist": "Helloween",
+      "year": 1988,
+      "genre": "Metal",
+      "type": "digital-mp3",
+      "cover": "covers/5dc7eba84ee2.png",
+      "dateAdded": "2026-07-09T07:27:38.478281"
+    },
+    {
+      "id": "e78b35f8f6ca",
+      "title": " Keeper Of The Seven Keys Pt 1",
+      "artist": "Helloween",
+      "year": 1987,
+      "genre": "Metal",
+      "type": "digital-mp3",
+      "cover": "covers/e78b35f8f6ca.png",
+      "dateAdded": "2026-07-09T07:27:38.471025"
+    },
+    {
+      "id": "fd9800167fc5",
+      "title": "Sehnsucht",
+      "artist": "Rammstein",
+      "year": 1998,
+      "genre": "Metal",
+      "type": "digital-mp3",
+      "cover": "covers/fd9800167fc5.jpg",
+      "dateAdded": "2026-07-09T07:27:38.421553"
+    },
+    {
+      "id": "bac415eee285",
+      "title": "Mothership",
+      "artist": "Led Zeppelin",
+      "year": 2007,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/bac415eee285.jpg",
+      "dateAdded": "2026-07-09T07:27:38.386691"
+    },
+    {
+      "id": "b9198261f5ad",
+      "title": "Coda",
+      "artist": "Led Zeppelin",
+      "year": 1982,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/b9198261f5ad.png",
+      "dateAdded": "2026-07-09T07:27:38.380319"
+    },
+    {
+      "id": "950a719b4af5",
+      "title": "Physical Graffiti",
+      "artist": "Led Zeppelin",
+      "year": 1975,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/950a719b4af5.png",
+      "dateAdded": "2026-07-09T07:27:38.360380"
+    },
+    {
+      "id": "8a95377835c1",
+      "title": "The Song Remains The Same: Soundtrack From The Led Zeppelin Film",
+      "artist": "Led Zeppelin",
+      "year": 1990,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/8a95377835c1.jpg",
+      "dateAdded": "2026-07-09T07:27:38.353460"
+    },
+    {
+      "id": "6b8592532ad4",
+      "title": "Presence (1994 Remaster)",
+      "artist": "Led Zeppelin",
+      "year": 1976,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/6b8592532ad4.png",
+      "dateAdded": "2026-07-09T07:27:38.346698"
+    },
+    {
+      "id": "223ae38c587b",
+      "title": "In Through The Out Door (Remast.)",
+      "artist": "Led Zeppelin",
+      "year": 1979,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/223ae38c587b.png",
+      "dateAdded": "2026-07-09T07:27:38.339166"
+    },
+    {
+      "id": "b61a1c6ca613",
+      "title": "The Offspring - Greatest Hits",
+      "artist": "The Offspring",
+      "year": 2005,
+      "genre": "Punk",
+      "type": "digital-mp3",
+      "cover": "covers/b61a1c6ca613.jpg",
+      "dateAdded": "2026-07-09T07:27:38.299352"
+    },
+    {
+      "id": "b4a99ba37334",
+      "title": "The Outside",
+      "artist": "Grand Avenue",
+      "year": 2007,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/b4a99ba37334.png",
+      "dateAdded": "2026-07-09T07:27:38.248157"
+    },
+    {
+      "id": "8874ca761b0c",
+      "title": "Barcelona",
+      "artist": "Freddie Mercury",
+      "year": 1992,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/8874ca761b0c.png",
+      "dateAdded": "2026-07-09T07:27:38.241297"
+    },
+    {
+      "id": "976eb30eba46",
+      "title": "The Dark Knight Rises",
+      "artist": "Hans Zimmer",
+      "year": 2012,
+      "genre": "Soundtracks",
+      "type": "digital-mp3",
+      "cover": "covers/976eb30eba46.png",
+      "dateAdded": "2026-07-09T07:27:38.226004"
+    },
+    {
+      "id": "f18454910af6",
+      "title": "Pirates of the Caribbean: Dead Man's Chest",
+      "artist": "Hans Zimmer",
+      "year": 2006,
+      "genre": "Soundtracks",
+      "type": "digital-mp3",
+      "cover": "covers/f18454910af6.jpg",
+      "dateAdded": "2026-07-09T07:27:38.215061"
+    },
+    {
+      "id": "1077e71df0da",
+      "title": "1492: Conquest of Paradise - Original Motion Picture Soundtrack",
+      "artist": "Vangelis",
+      "year": 1992,
+      "genre": "Soundtracks",
+      "type": "digital-mp3",
+      "cover": "covers/1077e71df0da.jpg",
+      "dateAdded": "2026-07-09T07:27:38.203879"
+    },
+    {
+      "id": "5fa87907c821",
+      "title": "Oceanic",
+      "artist": "Vangelis",
+      "year": 0,
+      "genre": "Other",
+      "type": "digital-mp3",
+      "cover": "covers/5fa87907c821.png",
+      "dateAdded": "2026-07-09T07:27:38.196464"
+    },
+    {
+      "id": "254b31e37922",
+      "title": "Music From Koreyoshi Kurahara's Film Antarctica",
+      "artist": "Vangelis",
+      "year": 1990,
+      "genre": "Soundtracks",
+      "type": "digital-mp3",
+      "cover": "covers/254b31e37922.jpg",
+      "dateAdded": "2026-07-09T07:27:38.190421"
+    },
+    {
+      "id": "10033422b486",
+      "title": "Vangelis/Odyssey: The Definitive Collection",
+      "artist": "Vangelis",
+      "year": 2006,
+      "genre": "New Age",
+      "type": "digital-mp3",
+      "cover": "covers/10033422b486.jpg",
+      "dateAdded": "2026-07-09T07:27:38.176472"
+    },
+    {
+      "id": "27890601a8cc",
+      "title": "Blade Runner Trilogy",
+      "artist": "Vangelis",
+      "year": 2007,
+      "genre": "Soundtracks",
+      "type": "digital-mp3",
+      "cover": "covers/27890601a8cc.png",
+      "dateAdded": "2026-07-09T07:27:38.144750"
+    },
+    {
+      "id": "55cc49b4bac9",
+      "title": "Oxygene",
+      "artist": "Jean Michel Jarre",
+      "year": 1977,
+      "genre": "New Age",
+      "type": "digital-mp3",
+      "cover": "covers/55cc49b4bac9.png",
+      "dateAdded": "2026-07-09T07:27:38.139078"
+    },
+    {
+      "id": "c45b129ecf70",
+      "title": "Oxygene 7-13",
+      "artist": "Jean Michel Jarre",
+      "year": 1997,
+      "genre": "New Age",
+      "type": "digital-mp3",
+      "cover": "covers/c45b129ecf70.png",
+      "dateAdded": "2026-07-09T07:27:38.129075"
+    },
+    {
+      "id": "58f34363ebc9",
+      "title": "Kill Bill: Volume 1",
+      "artist": "Various Artists",
+      "year": 2003,
+      "genre": "Soundtracks",
+      "type": "digital-mp3",
+      "cover": "covers/58f34363ebc9.jpg",
+      "dateAdded": "2026-07-09T07:27:38.090642"
+    },
+    {
+      "id": "0a8a285d37c4",
+      "title": "Camel",
+      "artist": "Camel",
+      "year": 1973,
+      "genre": "Progressive Rock",
+      "type": "digital-mp3",
+      "cover": "covers/0a8a285d37c4.png",
+      "dateAdded": "2026-07-09T07:27:38.083302"
+    },
+    {
+      "id": "bde9fc744ec7",
+      "title": "Lights Out",
+      "artist": "UFO",
+      "year": 1977,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/bde9fc744ec7.jpg",
+      "dateAdded": "2026-07-09T07:27:38.077549"
+    },
+    {
+      "id": "8de71f4e8196",
+      "title": "20th Century Masters - The Millennium Collection: The Best of Kiss, Vol. 2",
+      "artist": "Kiss",
+      "year": 2004,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/8de71f4e8196.jpg",
+      "dateAdded": "2026-07-09T07:27:38.069220"
+    },
+    {
+      "id": "1b04f42d87c7",
+      "title": "Done with Mirrors",
+      "artist": "Aerosmith",
+      "year": 1997,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/1b04f42d87c7.jpg",
+      "dateAdded": "2026-07-09T07:27:38.053915"
+    },
+    {
+      "id": "a055b68cb01a",
+      "title": "Rocks",
+      "artist": "Aerosmith",
+      "year": 1993,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/a055b68cb01a.jpg",
+      "dateAdded": "2026-07-09T07:27:38.040459"
+    },
+    {
+      "id": "f34401988c58",
+      "title": "Pump",
+      "artist": "Aerosmith",
+      "year": 1989,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/f34401988c58.jpg",
+      "dateAdded": "2026-07-09T07:27:38.024940"
+    },
+    {
+      "id": "c181347e3f5a",
+      "title": "Big Ones",
+      "artist": "Aerosmith",
+      "year": 1994,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/c181347e3f5a.jpg",
+      "dateAdded": "2026-07-09T07:27:38.011814"
+    },
+    {
+      "id": "c5d728feb3bd",
+      "title": "Permanent Vacation",
+      "artist": "Aerosmith",
+      "year": 1990,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/c5d728feb3bd.jpg",
+      "dateAdded": "2026-07-09T07:27:37.992130"
+    },
+    {
+      "id": "74294d952f39",
+      "title": "Aerosmith's Greatest Hits 1973-1988",
+      "artist": "Aerosmith",
+      "year": 0,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/74294d952f39.jpg",
+      "dateAdded": "2026-07-09T07:27:37.979196"
+    },
+    {
+      "id": "ec46e4a66728",
+      "title": "The Fat Of The Land",
+      "artist": "The Prodigy",
+      "year": 1997,
+      "genre": "Techno",
+      "type": "digital-mp3",
+      "cover": "covers/ec46e4a66728.jpg",
+      "dateAdded": "2026-07-09T07:27:37.971453"
+    },
+    {
+      "id": "6143baa1d7d8",
+      "title": "Brave",
+      "artist": "Marillion",
+      "year": 1998,
+      "genre": "Progressive Rock",
+      "type": "digital-mp3",
+      "cover": "covers/6143baa1d7d8.jpg",
+      "dateAdded": "2026-07-09T07:27:37.951565"
+    },
+    {
+      "id": "219f4bcde745",
+      "title": "Greatest Hits",
+      "artist": "Guns N'Roses",
+      "year": 2004,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/219f4bcde745.jpg",
+      "dateAdded": "2026-07-09T07:27:37.809463"
+    },
+    {
+      "id": "fb67812b3aaf",
+      "title": "Best of Bowie",
+      "artist": "David Bowie",
+      "year": 2002,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/fb67812b3aaf.png",
+      "dateAdded": "2026-07-09T07:27:37.790074"
+    },
+    {
+      "id": "572efa977b57",
+      "title": "The Rise And Fall Of Ziggy Stardust And The Spiders From Mars",
+      "artist": "David Bowie",
+      "year": 1972,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/572efa977b57.png",
+      "dateAdded": "2026-07-09T07:27:37.775188"
+    },
+    {
+      "id": "9c0783ee308a",
+      "title": "Destiny",
+      "artist": "Stratovarius",
+      "year": 1999,
+      "genre": "Metal",
+      "type": "digital-mp3",
+      "cover": "covers/9c0783ee308a.jpg",
+      "dateAdded": "2026-07-09T07:27:37.753398"
+    },
+    {
+      "id": "58ebb9e15c29",
+      "title": "Episode",
+      "artist": "Stratovarius",
+      "year": 1998,
+      "genre": "Metal",
+      "type": "digital-mp3",
+      "cover": "covers/58ebb9e15c29.jpg",
+      "dateAdded": "2026-07-09T07:27:37.743109"
+    },
+    {
+      "id": "3df11f0a234b",
+      "title": "Intermission",
+      "artist": "Stratovarius",
+      "year": 2001,
+      "genre": "Metal",
+      "type": "digital-mp3",
+      "cover": "covers/3df11f0a234b.jpg",
+      "dateAdded": "2026-07-09T07:27:37.733297"
+    },
+    {
+      "id": "f89332d1fac4",
+      "title": "Bad Company",
+      "artist": "Bad Company",
+      "year": 1974,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/f89332d1fac4.png",
+      "dateAdded": "2026-07-09T07:27:37.725588"
+    },
+    {
+      "id": "9dcd4b47df58",
+      "title": "Hey! Ho! Let's Go: The Anthology",
+      "artist": "The Ramones",
+      "year": 1999,
+      "genre": "Punk",
+      "type": "digital-mp3",
+      "cover": "covers/9dcd4b47df58.jpg",
+      "dateAdded": "2026-07-09T07:27:37.598167"
+    },
+    {
+      "id": "29e329d17bc5",
+      "title": "Fire Garden",
+      "artist": "Steve Vai",
+      "year": 1996,
+      "genre": "Rock Guitarists",
+      "type": "digital-mp3",
+      "cover": "covers/29e329d17bc5.jpg",
+      "dateAdded": "2026-07-09T07:27:37.573094"
+    },
+    {
+      "id": "e9b57bf35b21",
+      "title": "Real Illusions: Reflections",
+      "artist": "Steve Vai",
+      "year": 2005,
+      "genre": "Rock Guitarists",
+      "type": "digital-mp3",
+      "cover": "covers/e9b57bf35b21.jpg",
+      "dateAdded": "2026-07-09T07:27:37.563639"
+    },
+    {
+      "id": "dcfafee8e052",
+      "title": "The Ultra Zone",
+      "artist": "Steve Vai",
+      "year": 1999,
+      "genre": "Rock Guitarists",
+      "type": "digital-mp3",
+      "cover": "covers/dcfafee8e052.jpg",
+      "dateAdded": "2026-07-09T07:27:37.555089"
+    },
+    {
+      "id": "1b3cbec83955",
+      "title": "Passion & Warfare",
+      "artist": "Steve Vai",
+      "year": 1997,
+      "genre": "Rock Guitarists",
+      "type": "digital-mp3",
+      "cover": "covers/1b3cbec83955.jpg",
+      "dateAdded": "2026-07-09T07:27:37.545447"
+    },
+    {
+      "id": "ba0bf2be22ed",
+      "title": "The Very Best Of",
+      "artist": "Status Quo",
+      "year": 1997,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/ba0bf2be22ed.png",
+      "dateAdded": "2026-07-09T07:27:37.507791"
+    },
+    {
+      "id": "13e2bcb4e693",
+      "title": "Dr Feelgood",
+      "artist": "Motley Crue",
+      "year": 1989,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/13e2bcb4e693.jpg",
+      "dateAdded": "2026-07-09T07:27:37.456688"
+    },
+    {
+      "id": "35999bbdc012",
+      "title": "Girls, Girls, Girls",
+      "artist": "Motley Crue",
+      "year": 1987,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/35999bbdc012.jpg",
+      "dateAdded": "2026-07-09T07:27:37.449291"
+    },
+    {
+      "id": "ed7dd4fac884",
+      "title": "Theatre of Pain",
+      "artist": "Motley Crue",
+      "year": 1985,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/ed7dd4fac884.jpg",
+      "dateAdded": "2026-07-09T07:27:37.437888"
+    },
+    {
+      "id": "9d7cea8f9996",
+      "title": "1973 - Goodbye Yellow Brick Road",
+      "artist": "Elton John",
+      "year": 1973,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/9d7cea8f9996.jpg",
+      "dateAdded": "2026-07-09T07:27:37.421805"
+    },
+    {
+      "id": "a31985f3e3d1",
+      "title": "Super Colossal",
+      "artist": "Joe Satriani",
+      "year": 2006,
+      "genre": "Rock Guitarists",
+      "type": "digital-mp3",
+      "cover": "covers/a31985f3e3d1.jpg",
+      "dateAdded": "2026-07-09T07:27:37.408585"
+    },
+    {
+      "id": "cb78f187da43",
+      "title": "Engines Of Creation",
+      "artist": "Joe Satriani",
+      "year": 2000,
+      "genre": "Rock Guitarists",
+      "type": "digital-mp3",
+      "cover": "covers/cb78f187da43.jpg",
+      "dateAdded": "2026-07-09T07:27:37.401292"
+    },
+    {
+      "id": "24f9a46584ac",
+      "title": "Is There Love in Space?",
+      "artist": "Joe Satriani",
+      "year": 2004,
+      "genre": "Rock Guitarists",
+      "type": "digital-mp3",
+      "cover": "covers/24f9a46584ac.jpg",
+      "dateAdded": "2026-07-09T07:27:37.392768"
+    },
+    {
+      "id": "f14ca64ef9e5",
+      "title": "The Extremist",
+      "artist": "Joe Satriani",
+      "year": 1992,
+      "genre": "Rock Guitarists",
+      "type": "digital-mp3",
+      "cover": "covers/f14ca64ef9e5.jpg",
+      "dateAdded": "2026-07-09T07:27:37.383339"
+    },
+    {
+      "id": "4141212294da",
+      "title": "Crystal Planet",
+      "artist": "Joe Satriani",
+      "year": 1998,
+      "genre": "Rock Guitarists",
+      "type": "digital-mp3",
+      "cover": "covers/4141212294da.jpg",
+      "dateAdded": "2026-07-09T07:27:37.373803"
+    },
+    {
+      "id": "b9525e9d29fe",
+      "title": "Surfing With the Alien",
+      "artist": "Joe Satriani",
+      "year": 1990,
+      "genre": "Rock Guitarists",
+      "type": "digital-mp3",
+      "cover": "covers/b9525e9d29fe.jpg",
+      "dateAdded": "2026-07-09T07:27:37.356949"
+    },
+    {
+      "id": "803065a83ddb",
+      "title": "Flying in a Blue Dream",
+      "artist": "Joe Satriani",
+      "year": 1997,
+      "genre": "Rock Guitarists",
+      "type": "digital-mp3",
+      "cover": "covers/803065a83ddb.jpg",
+      "dateAdded": "2026-07-09T07:27:37.345017"
+    },
+    {
+      "id": "9a6906062405",
+      "title": "Strange Beautiful Music",
+      "artist": "Joe Satriani",
+      "year": 2002,
+      "genre": "Rock Guitarists",
+      "type": "digital-mp3",
+      "cover": "covers/9a6906062405.jpg",
+      "dateAdded": "2026-07-09T07:27:37.322030"
+    },
+    {
+      "id": "b446fb942026",
+      "title": "All That I Am",
+      "artist": "Santana",
+      "year": 2005,
+      "genre": "Rock Guitarists",
+      "type": "digital-mp3",
+      "cover": "covers/b446fb942026.jpg",
+      "dateAdded": "2026-07-09T07:27:37.256974"
+    },
+    {
+      "id": "11cb7d5fc0ac",
+      "title": "Don't Bore Us Get to the Chorus : Roxette's Greatest Hits",
+      "artist": "Roxette",
+      "year": 1999,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/11cb7d5fc0ac.jpg",
+      "dateAdded": "2026-07-09T07:27:37.219358"
+    },
+    {
+      "id": "8382ddf1dee9",
+      "title": "Unplugged",
+      "artist": "Roxette",
+      "year": 1993,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/8382ddf1dee9.jpg",
+      "dateAdded": "2026-07-09T07:27:37.207827"
+    },
+    {
+      "id": "4f9a098024e7",
+      "title": "Travelling",
+      "artist": "Roxette",
+      "year": 2012,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/4f9a098024e7.png",
+      "dateAdded": "2026-07-09T07:27:37.194475"
+    },
+    {
+      "id": "4c256a85e807",
+      "title": "Joyride",
+      "artist": "Roxette",
+      "year": 1991,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/4c256a85e807.jpg",
+      "dateAdded": "2026-07-09T07:27:37.181086"
+    },
+    {
+      "id": "998f58a54616",
+      "title": "One Foot in the Blues",
+      "artist": "ZZ Top",
+      "year": 1994,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/998f58a54616.jpg",
+      "dateAdded": "2026-07-09T07:27:37.150566"
+    },
+    {
+      "id": "ecea8bc1e506",
+      "title": "Extreme (II) Pornograffitti (A funked up fairy tale)",
+      "artist": "Extreme",
+      "year": 0,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/ecea8bc1e506.jpg",
+      "dateAdded": "2026-07-09T07:27:37.096762"
+    },
+    {
+      "id": "a5a1706ff9a0",
+      "title": "Extreme I (Photographitti)",
+      "artist": "Extreme",
+      "year": 1989,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/a5a1706ff9a0.jpg",
+      "dateAdded": "2026-07-09T07:27:37.091364"
+    },
+    {
+      "id": "cc6a0f22b5da",
+      "title": "Waiting for the Punchline",
+      "artist": "Extreme",
+      "year": 1995,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/cc6a0f22b5da.jpg",
+      "dateAdded": "2026-07-09T07:27:37.078688"
+    },
+    {
+      "id": "6b2b868b93c6",
+      "title": "III Sides to Every Story (Jewel Box)",
+      "artist": "Extreme",
+      "year": 1992,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/6b2b868b93c6.jpg",
+      "dateAdded": "2026-07-09T07:27:37.066757"
+    },
+    {
+      "id": "e943368fb4fd",
+      "title": "Metal Works '73-'93",
+      "artist": "Judas Priest",
+      "year": 0,
+      "genre": "Metal",
+      "type": "digital-mp3",
+      "cover": "covers/e943368fb4fd.png",
+      "dateAdded": "2026-07-09T07:27:37.039410"
+    },
+    {
+      "id": "0de5beaeeb00",
+      "title": "Stained Class",
+      "artist": "Judas Priest",
+      "year": 1978,
+      "genre": "Metal",
+      "type": "digital-mp3",
+      "cover": "covers/0de5beaeeb00.jpg",
+      "dateAdded": "2026-07-09T07:27:37.031773"
+    },
+    {
+      "id": "df5d76b260ed",
+      "title": "Early Years",
+      "artist": "Deep Purple",
+      "year": 2004,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/df5d76b260ed.jpg",
+      "dateAdded": "2026-07-09T07:27:37.004715"
+    },
+    {
+      "id": "ad88ccf9498c",
+      "title": "Machine Head",
+      "artist": "Deep Purple",
+      "year": 1972,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/ad88ccf9498c.jpg",
+      "dateAdded": "2026-07-09T07:27:37.000738"
+    },
+    {
+      "id": "d3dc613612cd",
+      "title": "Maximum Security",
+      "artist": "Tony Macalpine",
+      "year": 1994,
+      "genre": "Rock Guitarists",
+      "type": "digital-mp3",
+      "cover": "covers/d3dc613612cd.jpg",
+      "dateAdded": "2026-07-09T07:27:36.991403"
+    },
+    {
+      "id": "07c5d7cf847b",
+      "title": "Guitars",
+      "artist": "Mike Oldfield",
+      "year": 1999,
+      "genre": "New Age",
+      "type": "digital-mp3",
+      "cover": "covers/07c5d7cf847b.png",
+      "dateAdded": "2026-07-09T07:27:36.847339"
+    },
+    {
+      "id": "895f62b1675c",
+      "title": "K",
+      "artist": "Kula Shaker",
+      "year": 1996,
+      "genre": "Indie Rock",
+      "type": "digital-alac",
+      "cover": "covers/895f62b1675c.png",
+      "dateAdded": "2026-07-09T07:27:36.774134"
+    },
+    {
+      "id": "b478b25b0925",
+      "title": "The Ballads II",
+      "artist": "Axel Rudi Pell",
+      "year": 1999,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": null,
+      "dateAdded": "2026-07-09T07:27:36.767339"
+    },
+    {
+      "id": "2d21b32f35ad",
+      "title": "Oceans Of Time",
+      "artist": "Axel Rudi Pell",
+      "year": 1998,
+      "genre": "Metal",
+      "type": "digital-mp3",
+      "cover": "covers/2d21b32f35ad.jpg",
+      "dateAdded": "2026-07-09T07:27:36.759524"
+    },
+    {
+      "id": "a6982df8cbc8",
+      "title": "High Voltage",
+      "artist": "AC/DC",
+      "year": 1994,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/a6982df8cbc8.jpg",
+      "dateAdded": "2026-07-09T07:27:36.739298"
+    },
+    {
+      "id": "55f99895f783",
+      "title": "The Razors Edge",
+      "artist": "AC/DC",
+      "year": 1990,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/55f99895f783.jpg",
+      "dateAdded": "2026-07-09T07:27:36.730199"
+    },
+    {
+      "id": "097e5f7461de",
+      "title": "Back in Black",
+      "artist": "AC/DC",
+      "year": 1980,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/097e5f7461de.jpg",
+      "dateAdded": "2026-07-09T07:27:36.717070"
+    },
+    {
+      "id": "7823ec5aba8a",
+      "title": "For Those About to Rock We Salute You",
+      "artist": "AC/DC",
+      "year": 1981,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/7823ec5aba8a.jpg",
+      "dateAdded": "2026-07-09T07:27:36.698728"
+    },
+    {
+      "id": "095bd2ea8299",
+      "title": "'74 Jailbreak",
+      "artist": "AC/DC",
+      "year": 1984,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/095bd2ea8299.jpg",
+      "dateAdded": "2026-07-09T07:27:36.694015"
+    },
+    {
+      "id": "d188ce2e87ee",
+      "title": "Let There Be Rock",
+      "artist": "AC/DC",
+      "year": 1977,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/d188ce2e87ee.jpg",
+      "dateAdded": "2026-07-09T07:27:36.661913"
+    },
+    {
+      "id": "edeb8430c1d1",
+      "title": "Highway to Hell",
+      "artist": "AC/DC",
+      "year": 1979,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/edeb8430c1d1.jpg",
+      "dateAdded": "2026-07-09T07:27:36.623411"
+    },
+    {
+      "id": "d078069df7aa",
+      "title": "Backtracks",
+      "artist": "AC/DC",
+      "year": 2009,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/d078069df7aa.png",
+      "dateAdded": "2026-07-09T07:27:36.597167"
+    },
+    {
+      "id": "c4f9fc7feb8f",
+      "title": "Black Ice",
+      "artist": "AC/DC",
+      "year": 2008,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/c4f9fc7feb8f.jpg",
+      "dateAdded": "2026-07-09T07:27:36.585730"
+    },
+    {
+      "id": "c68be67f1adf",
+      "title": "Powerage",
+      "artist": "AC/DC",
+      "year": 1978,
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/c68be67f1adf.jpg",
+      "dateAdded": "2026-07-09T07:27:36.570611"
+    },
+    {
+      "id": "ccff1c5bdf46",
+      "title": "Everybody Else Is Doing It, So",
+      "artist": "The Cranberries",
+      "year": 1993,
+      "genre": "Rock",
+      "type": "digital-mp3",
+      "cover": "covers/ccff1c5bdf46.png",
+      "dateAdded": "2026-07-09T07:27:36.518159"
+    },
+    {
+      "id": "c3397885621b",
+      "title": "Black",
+      "artist": "Metallica",
+      "year": 1991,
+      "genre": "Metal",
+      "type": "digital-mp3",
+      "cover": "covers/c3397885621b.jpg",
+      "dateAdded": "2026-07-09T07:27:36.509274"
+    },
+    {
+      "id": "13e28e1c62b2",
+      "title": "Damage Justice Tour '89",
+      "artist": "Metallica",
+      "year": 1989,
+      "genre": "Metal",
+      "type": "digital-mp3",
+      "cover": "covers/13e28e1c62b2.jpg",
+      "dateAdded": "2026-07-09T07:27:36.494599"
+    },
+    {
+      "id": "5c23ebaeb0b9",
+      "title": "Death Magnetic",
+      "artist": "Metallica",
+      "year": 2008,
+      "genre": "Metal",
+      "type": "digital-mp3",
+      "cover": "covers/5c23ebaeb0b9.png",
+      "dateAdded": "2026-07-09T07:27:36.486152"
+    },
+    {
       "id": "6deabe96f140",
       "title": "Money For Nothing",
       "artist": "Dire Straits",
@@ -205,9 +2045,9 @@
       "title": "If You Want Blood You've Got It",
       "artist": "AC/DC",
       "year": 1978,
-      "genre": "Rock",
-      "type": "digital-alac",
-      "cover": "covers/d3cc6ad87a2d.png",
+      "genre": "Hard Rock",
+      "type": "digital-mp3",
+      "cover": "covers/d3cc6ad87a2d.jpg",
       "dateAdded": "2026-05-19T20:35:46.345213"
     },
     {
@@ -1081,13 +2921,13 @@
       "dateAdded": "2026-05-16T20:51:30.222694"
     },
     {
-      "id": "abe4259ca4fe",
+      "id": "e4abac010002",
       "title": "Avalancha",
-      "artist": "Heroes Del Silencio",
+      "artist": "Heroes del Silencio",
       "year": 1995,
       "genre": "Rock",
       "type": "digital-mp3",
-      "cover": "covers/abe4259ca4fe.png",
+      "cover": "covers/e4abac010002.png",
       "dateAdded": "2026-05-16T20:51:30.218886"
     },
     {
@@ -1821,5 +3661,5 @@
       "dateAdded": "2026-05-16T20:51:29.938908"
     }
   ],
-  "lastUpdated": "2026-06-23T18:51:46.619801"
+  "lastUpdated": "2026-07-09T07:27:41.231221"
 }
