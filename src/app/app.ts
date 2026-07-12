@@ -19,9 +19,8 @@ export class App implements OnInit {
   selectedArtists: Set<string> = new Set();
   artists: string[] = [];
   showDropdown = false;
-  selectedTypes: Set<string> = new Set();
-  types: string[] = ['CD', 'digital-mp3', 'digital-alac','vinyl'];
-  showTypeDropdown = false;
+  selectedTypes: Set<string> = new Set(['CD']);
+  types: string[] = ['CD', 'digital-alac', 'digital-mp3', 'vinyl'];
   searchTerm: string = '';
 
   constructor(private albumService: AlbumService, private cdr: ChangeDetectorRef) {}
@@ -36,6 +35,7 @@ export class App implements OnInit {
         this.sortAlbums();
         this.extractArtists();
         this.filteredAlbums = [...this.albums];
+        this.applyFilter();
         console.log('After assignment - this.albums:', this.albums);
         console.log('After assignment - this.albums.length:', this.albums.length);
         this.loading = false;
@@ -109,12 +109,24 @@ export class App implements OnInit {
     this.applyFilter();
   }
 
-  toggleTypeDropdown() {
-    this.showTypeDropdown = !this.showTypeDropdown;
+  clearTypeFilter() {
+    this.selectedTypes.clear();
+    this.applyFilter();
   }
 
-  getSelectedTypeCount(): number {
-    return this.selectedTypes.size;
+  getTypeIcon(type: string): string {
+    switch (type) {
+      case 'CD':
+        return '💿';
+      case 'vinyl':
+        return '⚫';
+      case 'digital-mp3':
+        return '🎵';
+      case 'digital-alac':
+        return '🎵';
+      default:
+        return '🎵';
+    }
   }
 
   toggleDropdown() {

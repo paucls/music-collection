@@ -25,13 +25,12 @@ header p {
 
 .filter-section {
   display: flex;
-  align-items: center;
+  flex-direction: column;
   gap: 1rem;
   margin-top: 1rem;
   padding: 1rem;
   background: #f8f9fa;
   border-radius: 8px;
-  flex-wrap: wrap;
 }
 
 .filter-section label {
@@ -138,8 +137,9 @@ header p {
   display: flex;
   align-items: center;
   gap: 0.75rem;
-  flex: 1;
-  min-width: 300px;
+  flex: 0 1 auto;
+  max-width: 450px;
+  min-width: 380px;
 }
 
 .search-input {
@@ -161,6 +161,71 @@ header p {
 
 .search-input::placeholder {
   color: #999;
+}
+
+.filter-row {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.search-count-row {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-top: 0.5rem;
+}
+
+.type-buttons {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.type-button {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.6rem 1rem;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  background: white;
+  color: #333;
+  font-size: 0.9rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  min-width: fit-content;
+}
+
+.type-button:hover {
+  border-color: #4a90e2;
+  background: #f8f9ff;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(74, 144, 226, 0.15);
+}
+
+.type-button.active {
+  border-color: #4a90e2;
+  background: #4a90e2;
+  color: white;
+  box-shadow: 0 2px 8px rgba(74, 144, 226, 0.3);
+}
+
+.type-button.active:hover {
+  background: #357abd;
+  border-color: #357abd;
+}
+
+.type-icon {
+  font-size: 1.1rem;
+  line-height: 1;
+}
+
+.type-label {
+  font-weight: 500;
 }
 
 @media (max-width: 768px) {
@@ -192,6 +257,16 @@ header p {
 
   .search-section label {
     margin-bottom: 0.5rem;
+  }
+
+  .type-buttons {
+    justify-content: center;
+  }
+
+  .type-button {
+    flex: 1;
+    min-width: 120px;
+    justify-content: center;
   }
 }
 

@@ -1,55 +1,59 @@
 <header>
   <h1>My Music Collection</h1>
   <div class="filter-section" *ngIf="!loading && !error">
-    <div class="search-section">
-      <label>Search:</label>
-      <input
-        type="text"
-        class="search-input"
-        placeholder="Search albums by title or artist..."
-        [(ngModel)]="searchTerm"
-        (input)="onSearchChange()"
-      />
-    </div>
-    <label>Filter by Artist:</label>
-    <div class="multiselect-dropdown" [class.open]="showDropdown">
-      <div class="dropdown-trigger" (click)="toggleDropdown()">
-        <span class="dropdown-text">
-          {{ getSelectedCount() === 0 ? 'Select Artists' : getSelectedCount() + ' artist(s) selected' }}
-        </span>
-        <span class="dropdown-arrow">▼</span>
+    <div class="filter-row">
+      <label>Type:</label>
+      <div class="type-buttons">
+        <button
+          class="type-button"
+          [class.active]="selectedTypes.size === 0"
+          (click)="clearTypeFilter()"
+        >
+          All Types
+        </button>
+        <button
+          *ngFor="let type of types"
+          class="type-button"
+          [class.active]="selectedTypes.has(type)"
+          (click)="filterByType(type)"
+        >
+          <span class="type-icon">{{ getTypeIcon(type) }}</span>
+          <span class="type-label">{{ formatType(type) }}</span>
+        </button>
       </div>
-      <div class="dropdown-content" *ngIf="showDropdown">
-        <label class="checkbox-item">
-          <input type="checkbox" [checked]="selectedArtists.size === 0" (change)="selectedArtists.clear(); applyFilter()" />
-          <span>All Artists</span>
-        </label>
-        <label class="checkbox-item" *ngFor="let artist of artists">
-          <input type="checkbox" [checked]="selectedArtists.has(artist)" (change)="filterByArtist(artist)" />
-          <span>{{ artist }}</span>
-        </label>
-      </div>
-    </div>
-    <label>Filter by Type:</label>
-    <div class="multiselect-dropdown" [class.open]="showTypeDropdown">
-      <div class="dropdown-trigger" (click)="toggleTypeDropdown()">
-        <span class="dropdown-text">
-          {{ getSelectedTypeCount() === 0 ? 'Select Types' : getSelectedTypeCount() + ' type(s) selected' }}
-        </span>
-        <span class="dropdown-arrow">▼</span>
-      </div>
-      <div class="dropdown-content" *ngIf="showTypeDropdown">
-        <label class="checkbox-item">
-          <input type="checkbox" [checked]="selectedTypes.size === 0" (change)="selectedTypes.clear(); applyFilter()" />
-          <span>All Types</span>
-        </label>
-        <label class="checkbox-item" *ngFor="let type of types">
-          <input type="checkbox" [checked]="selectedTypes.has(type)" (change)="filterByType(type)" />
-          <span>{{ formatType(type) }}</span>
-        </label>
+      <label>Artist:</label>
+      <div class="multiselect-dropdown" [class.open]="showDropdown">
+        <div class="dropdown-trigger" (click)="toggleDropdown()">
+          <span class="dropdown-text">
+            {{ getSelectedCount() === 0 ? 'Select Artists' : getSelectedCount() + ' artist(s) selected' }}
+          </span>
+          <span class="dropdown-arrow">▼</span>
+        </div>
+        <div class="dropdown-content" *ngIf="showDropdown">
+          <label class="checkbox-item">
+            <input type="checkbox" [checked]="selectedArtists.size === 0" (change)="selectedArtists.clear(); applyFilter()" />
+            <span>All Artists</span>
+          </label>
+          <label class="checkbox-item" *ngFor="let artist of artists">
+            <input type="checkbox" [checked]="selectedArtists.has(artist)" (change)="filterByArtist(artist)" />
+            <span>{{ artist }}</span>
+          </label>
+        </div>
       </div>
     </div>
-    <p>{{ filteredAlbums.length }} discs ({{ getAlbumCount(filteredAlbums) }} albums)</p>
+    <div class="search-count-row">
+      <div class="search-section">
+        <label>Search:</label>
+        <input
+          type="text"
+          class="search-input"
+          placeholder="Search albums by title or artist..."
+          [(ngModel)]="searchTerm"
+          (input)="onSearchChange()"
+        />
+      </div>
+      <p>{{ filteredAlbums.length }} discs ({{ getAlbumCount(filteredAlbums) }} albums)</p>
+    </div>
   </div>
 </header>
 
