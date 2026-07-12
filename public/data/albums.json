@@ -1,6 +1,26 @@
 {
   "albums": [
     {
+      "id": "1b291bde7687",
+      "title": "The Legend Of Sugarbelly",
+      "artist": "Guy Davis",
+      "year": 2024,
+      "genre": "Blues",
+      "type": "CD",
+      "cover": "covers/1b291bde7687.png",
+      "dateAdded": "2026-07-12T10:26:52.413030"
+    },
+    {
+      "id": "0f1ed20e0ceb",
+      "title": "Be Ready When I Call You",
+      "artist": "Guy Davis",
+      "year": 2021,
+      "genre": "Blues",
+      "type": "CD",
+      "cover": "covers/0f1ed20e0ceb.png",
+      "dateAdded": "2026-07-12T10:26:52.409225"
+    },
+    {
       "id": "7833de94bbb8",
       "title": "Harvest",
       "artist": "Neil Young",
@@ -57,7 +77,7 @@
       "year": 1969,
       "genre": "Rock",
       "type": "digital-alac",
-      "cover": null,
+      "cover": "covers/dc7b02f6d9ef.png",
       "dateAdded": "2026-07-12T09:36:43.321989"
     },
     {
@@ -3691,5 +3711,5 @@
       "dateAdded": "2026-05-16T20:51:29.938908"
     }
   ],
-  "lastUpdated": "2026-07-12T09:50:24.852180"
+  "lastUpdated": "2026-07-12T10:26:53.704443"
 }
