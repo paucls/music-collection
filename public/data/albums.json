@@ -1727,7 +1727,7 @@
       "year": 1999,
       "genre": "Hard Rock",
       "type": "digital-mp3",
-      "cover": null,
+      "cover": "covers/b478b25b0925.png",
       "dateAdded": "2026-07-09T07:27:36.767339"
     },
     {
@@ -3691,5 +3691,5 @@
       "dateAdded": "2026-05-16T20:51:29.938908"
     }
   ],
-  "lastUpdated": "2026-07-12T09:43:33.169271"
+  "lastUpdated": "2026-07-12T09:50:24.852180"
 }
