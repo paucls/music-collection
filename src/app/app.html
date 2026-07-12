@@ -5,13 +5,6 @@
       <label>Type:</label>
       <div class="type-buttons">
         <button
-          class="type-button"
-          [class.active]="selectedTypes.size === 0"
-          (click)="clearTypeFilter()"
-        >
-          All Types
-        </button>
-        <button
           *ngFor="let type of types"
           class="type-button"
           [class.active]="selectedTypes.has(type)"
@@ -40,8 +33,19 @@
           </label>
         </div>
       </div>
+      <div class="count-display">
+        <div class="count-item">
+          <span class="count-number">{{ filteredAlbums.length }}</span>
+          <span class="count-label">discs</span>
+        </div>
+        <div class="count-divider">•</div>
+        <div class="count-item">
+          <span class="count-number">{{ getAlbumCount(filteredAlbums) }}</span>
+          <span class="count-label">albums</span>
+        </div>
+      </div>
     </div>
-    <div class="search-count-row">
+    <div class="search-row">
       <div class="search-section">
         <label>Search:</label>
         <input
@@ -52,7 +56,6 @@
           (input)="onSearchChange()"
         />
       </div>
-      <p>{{ filteredAlbums.length }} discs ({{ getAlbumCount(filteredAlbums) }} albums)</p>
     </div>
   </div>
 </header>

@@ -133,13 +133,53 @@ header p {
   flex: 0 0 auto;
 }
 
+.count-display {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: white;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  border: 1px solid #e0e0e0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  margin-left: auto;
+}
+
+.count-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 50px;
+}
+
+.count-number {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #4a90e2;
+  line-height: 1;
+}
+
+.count-label {
+  font-size: 0.75rem;
+  color: #666;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-top: 0.25rem;
+}
+
+.count-divider {
+  color: #ddd;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1;
+}
+
 .search-section {
   display: flex;
   align-items: center;
   gap: 0.75rem;
-  flex: 0 1 auto;
-  max-width: 450px;
-  min-width: 380px;
+  flex: 1;
+  max-width: 100%;
 }
 
 .search-input {
@@ -170,7 +210,7 @@ header p {
   flex-wrap: wrap;
 }
 
-.search-count-row {
+.search-row {
   display: flex;
   align-items: center;
   gap: 1rem;
