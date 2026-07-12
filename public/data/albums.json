@@ -1,6 +1,66 @@
 {
   "albums": [
     {
+      "id": "7833de94bbb8",
+      "title": "Harvest",
+      "artist": "Neil Young",
+      "year": 1972,
+      "genre": "Country & Folk",
+      "type": "CD",
+      "cover": "covers/7833de94bbb8.png",
+      "dateAdded": "2026-07-12T09:41:53.281261"
+    },
+    {
+      "id": "8afae948e2b6",
+      "title": "Harvest Moon",
+      "artist": "Neil Young",
+      "year": 1992,
+      "genre": "Country & Folk",
+      "type": "digital-alac",
+      "cover": "covers/8afae948e2b6.png",
+      "dateAdded": "2026-07-12T09:41:53.009950"
+    },
+    {
+      "id": "c7726b6f7735",
+      "title": "Peace, Love & Loud Guitars",
+      "artist": "Anthony Gomes",
+      "year": 2024,
+      "genre": "Blues",
+      "type": "CD",
+      "cover": "covers/c7726b6f7735.png",
+      "dateAdded": "2026-07-12T09:36:45.849611"
+    },
+    {
+      "id": "d505b4d09fef",
+      "title": "Greatest Hits",
+      "artist": "The Police",
+      "year": 1979,
+      "genre": "Alternative",
+      "type": "digital-alac",
+      "cover": "covers/d505b4d09fef.png",
+      "dateAdded": "2026-07-12T09:36:45.557101"
+    },
+    {
+      "id": "a38f83beeeb2",
+      "title": "Against The Grain [Remastered 2017]",
+      "artist": "Rory Gallagher",
+      "year": 1975,
+      "genre": "Rock",
+      "type": "digital-alac",
+      "cover": "covers/a38f83beeeb2.png",
+      "dateAdded": "2026-07-12T09:36:44.671832"
+    },
+    {
+      "id": "dc7b02f6d9ef",
+      "title": "Led Zeppelin II",
+      "artist": "Led Zeppelin",
+      "year": 1969,
+      "genre": "Rock",
+      "type": "digital-alac",
+      "cover": null,
+      "dateAdded": "2026-07-12T09:36:43.321989"
+    },
+    {
       "id": "fbe400b30668",
       "title": "Hard Rain",
       "artist": "Bob Dylan",
@@ -805,9 +865,9 @@
       "title": "Nevermind",
       "artist": "Nirvana",
       "year": 1991,
-      "genre": "Rock",
-      "type": "digital-mp3",
-      "cover": "covers/1e7b2151fa99.jpg",
+      "genre": "Alternative",
+      "type": "digital-alac",
+      "cover": "covers/1e7b2151fa99.png",
       "dateAdded": "2026-07-09T07:27:38.752126"
     },
     {
@@ -849,26 +909,6 @@
       "type": "digital-mp3",
       "cover": "covers/e84f016cc6d2.jpg",
       "dateAdded": "2026-07-09T07:27:38.626836"
-    },
-    {
-      "id": "384cb56d8827",
-      "title": "Cloud Atlas (Original Motion Picture Soundtrack)",
-      "artist": "Tom Tykwer, Johnny Klimek, Reinhold Heil & Gabriel Mounsey",
-      "year": 0,
-      "genre": "Soundtracks",
-      "type": "digital-mp3",
-      "cover": "covers/384cb56d8827.jpg",
-      "dateAdded": "2026-07-09T07:27:38.606687"
-    },
-    {
-      "id": "180668b0c1f0",
-      "title": "Cloud Atlas (Original Motion Picture Soundtrack)",
-      "artist": "Tom Tykwer, Johnny Klimek, Reinhold Heil & Gene Pritsker",
-      "year": 0,
-      "genre": "Soundtracks",
-      "type": "digital-mp3",
-      "cover": "covers/180668b0c1f0.jpg",
-      "dateAdded": "2026-07-09T07:27:38.596296"
     },
     {
       "id": "ef31ec83d48f",
@@ -2019,16 +2059,6 @@
       "type": "digital-alac",
       "cover": "covers/a7bafd5e754f.png",
       "dateAdded": "2026-05-27T21:04:08.578686"
-    },
-    {
-      "id": "8afae948e2b6",
-      "title": "Harvest Moon",
-      "artist": "Neil Young",
-      "year": 1992,
-      "genre": "Country & Folk",
-      "type": "digital-alac",
-      "cover": "covers/8afae948e2b6.png",
-      "dateAdded": "2026-05-27T21:04:08.464606"
     },
     {
       "id": "da8249b9eab2",
@@ -3661,5 +3691,5 @@
       "dateAdded": "2026-05-16T20:51:29.938908"
     }
   ],
-  "lastUpdated": "2026-07-09T07:27:41.231221"
+  "lastUpdated": "2026-07-12T09:43:33.169271"
 }
